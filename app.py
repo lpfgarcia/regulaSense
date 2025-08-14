@@ -81,7 +81,7 @@ async def type_protocol(msg: cl.Message, patient: str):
     return response.choices[0].message.content
 
 @cl.step(name='Identificando se a justificativa atende o protocolo...', type='tool')
-async def child_protocol(msg: cl.Message, protocol: str):
+async def protocol_analysis(msg: cl.Message, protocol: str):
 
     client = cl.user_session.get('client')
     response = await client.chat.completions.create(
@@ -106,7 +106,7 @@ async def message(msg: cl.Message):
         if protocol.isdigit() and int(protocol) > 0:
             path = 'regulacao/oftalmologia/' + patient + '/' + protocol + '.txt'
             lines = read_file (path)
-            justification = await child_protocol(msg, lines)
+            justification = await protocol_analysis(msg, lines)
             if 'sim' in justification.lower():
                 await cl.Message(content=f'Justificativa **suficiente**').send()
             else:
