@@ -1,0 +1,30 @@
+# Protocolo 8 – Uveítes
+
+## Condições clínicas que indicam a necessidade de encaminhamento para emergência oftalmológica:
+
+- suspeita de uveíte anterior ativa (hiperemia conjuntival perilímbica, fotossensibilidade, dor ocular, presença de precipitados ceráticos, hipópio);
+- suspeita de uveíte posterior (redução súbita de acuidade visual, aparecimento súbito e/ou aumento recente de moscas volantes).
+
+## Condições clínicas que indicam a necessidade de encaminhamento para emergência clínica:
+
+- paciente com suspeita de neurossífilis por sinais ou sintomas oftalmológicos agudos/subagudos;
+- uveítes ativas com indicação de tratamento sistêmico: retinite viral (necrose aguda de retina, necrose progressiva da retina externa ou retinite por citomegalovírus) e descolamento exsudativo da retina (oftalmia simpática e síndrome de Vogt-Koyanagi-Harada).
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Oftalmologia em serviço de alta complexidade:
+
+- diagnóstico de uveíte ativa, após avaliação em serviço de emergência oftalmológica;
+- casos de uveíte já avaliados por oftalmologista e que necessitem tratamento ou investigação adicional em serviço especializado;
+- necessidade de intervenção cirúrgica (ceratopatia em faixa, catarata complicada, opacidades vítreas, descolamento de retina) em olhos com uveíte prévia ou em atividade.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Medicina Interna ou Reumatologia:
+
+- diagnóstico de uveíte associado a achados clínicos sugestivos de doença sistêmica, se afastadas causas infecciosas.
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter:
+
+1. sinais e sintomas (dor, hiperemia, baixa de visão, tempo de evolução);
+2. histórico de crises prévias de uveíte (sim ou não). Se sim, em qual olho e data aproximada;
+3. paciente apresenta imunossupressão (sim ou não). Se sim, descreva a causa;
+4. medida de acuidade visual (tabela de acuidade visual - figura 1 e figura 2) em cada olho, informando se a mesma foi realizada com ou sem a lente corretiva (se disponível);
+5. anexar, preferencialmente, ou descrever contrarreferência ou relatório do oftalmologista com resumo do quadro, se disponível;
+6. anexar laudo de exames complementares1, preferencialmente, ou descrever na íntegra os seus resultados, com data (se realizados);

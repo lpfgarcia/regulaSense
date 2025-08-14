@@ -1,0 +1,21 @@
+# Protocolo 1 – Distúrbios de Refração ou Acomodação
+
+## Condições clínicas que indicam a necessidade de encaminhamento para emergência oftalmológica:
+
+- diminuição de acuidade visual aguda ou associada à percepção súbita de sombra ou cortina sobre parte do campo de visão, fotopsia (flashes luminosos), moscas volantes ou metamorfopsia (percepção irreal de tortuosidade ou deformação da imagem).
+
+## Condições clínicas que podem ser avaliadas pelo TeleOftalmo ou Oftalmologia em serviço de média complexidade:
+
+- paciente com queixa de diminuição não aguda e inespecífica da acuidade visual;
+- paciente com distúrbio de refração (miopia, hipermetropia, astigmatismo) ou acomodação (presbiopia) com necessidade de revisão por modificação na acuidade visual.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Oftalmologia em serviço de média complexidade:
+
+- paciente usuário de lente de contato, sem acompanhamento com médico oftalmologista.
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter:
+
+1. sinais e sintomas: sensação de cansaço, dor ou ardência nos olhos, cefaleia, baixa de acuidade visual (descreva o quadro de diminuição visual - alteração na visão para perto ou para longe) e outros achados do exame físico como: torcicolo, nistagmo, estrabismo, pterígio, achados corneanos;
+2. diagnóstico prévio de distúrbio de refração ou acomodação (sim ou não). Se sim, descreva qual o distúrbio, grau da lente corretiva e quando foi a última revisão oftalmológica;
+3. medida de acuidade visual (tabela de acuidade visual) em cada olho, informando se a mesma foi realizada com ou sem a lente corretiva (se disponível);
+4. prejuízo funcional devido à diminuição da acuidade visual (sim ou não). Se sim, descreva;

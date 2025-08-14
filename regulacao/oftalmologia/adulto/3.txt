@@ -1,0 +1,34 @@
+# Protocolo 3 – Retinopatia ou Outras Doenças de Retina
+
+## Condições clínicas que indicam a necessidade de encaminhamento para emergência oftalmológica:
+
+- diminuição de acuidade visual aguda ou queixa visual associada à percepção súbita de sombra ou cortina sobre parte do campo de visão, fotopsia (flashes luminosos), moscas volantes ou metamorfopsia (percepção irreal de tortuosidade ou deformação da imagem)
+
+## Condições clínicas que podem ser avaliadas pelo TeleOftalmo ou Oftalmologia em serviço de média complexidade:
+
+- rastreamento de retinopatia em pacientes não gestantes com diabetes mellitus (DM1 ou DM2), sem diagnóstico prévio de retinopatia diabética;
+- avaliação anual de paciente não gestante com diagnóstico de retinopatia diabética não-proliferativa leve (na ausência de edema macular).
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Oftalmologia em serviço de média complexidade:
+
+- rastreamento de retinopatia diabética em gestantes com DM1 ou DM2 preexistente, preferencialmente no primeiro trimestre gestacional;
+- diagnóstico de retinopatia diabética com retinopatia não proliferativa leve na impossibilidade de acompanhar por retinografia na APS (via TeleOftalmo) ou com baixa de visão a despeito da melhor correção óptica;
+- diagnóstico de retinopatia diabética não proliferativa moderada;
+- rastreamento de maculopatia em pacientes que utilizam cloroquina/hidroxicloroquina.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Oftalmologia em serviço de alta complexidade:
+
+- diagnóstico de retinopatia diabética com:
+    - edema macular diabético; ou
+    - retinopatia proliferativa; ou
+- retinopatia não proliferativa grave;
+- outras doenças de retina estabelecidas (degeneração macular em forma neovascular, descolamento de retina regmatogênico ou tracional, buraco macular, oclusão de veia central da retina, edema macular ameaçando ou envolvendo a fóvea secundário a doença vascular ou inflamatório, membrana neovascular com fluido ameaçando ou envolvendo o centro da fóvea secundária a outras doenças).
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter:
+
+1. sinais e sintomas (descreva se há diminuição de acuidade visual e outros achados relevantes);
+2. apresenta diagnóstico prévio de doença de retina (sim ou não). Se sim, descreva o tipo e exame realizado no diagnóstico;
+3. apresenta diagnóstico de diabetes (sim ou não). Se sim, descreva o tipo e idade aproximada no diagnóstico, medicamentos em uso para controle metabólico;
+4. se gestante, descreva idade gestacional;
+5. se paciente utiliza hidroxicloroquina/cloroquina, descreva indicação, dose e quando foi o início;
+6. anexar laudo de retinografia, preferencialmente, ou descrever na íntegra os seus resultados, com data;

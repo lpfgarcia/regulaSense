@@ -1,0 +1,37 @@
+# Protocolo 5 – Doenças das Pálpebras, Vias Lacrimais e Órbita
+
+## Condições clínicas que indicam a necessidade de encaminhamento para emergência oftalmológica:
+
+- trauma da região orbitopalpebral com:
+    - suspeita de fratura óssea orbitária, sobretudo se associada à baixa de acuidade visual, suspeita de ruptura ocular (exemplo: trauma contuso de alto impacto), evidência de síndrome compartimental (dor ocular, proptose, defeito pupilar aferente relativo), aprisionamento muscular, distopia do globo ocular ou enoftalmo; ou
+    - suspeita de corpo estranho intraorbitário; ou
+    - laceração palpebral e/ou de vias lacrimais;
+- infecção aguda de vias lacrimais (dacriocistite, canaliculite);
+- proptose de início agudo ou suspeita de doenças inflamatórias ou vasculares agudas das órbitas.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Oftalmologia1:
+
+- Pálpebras:
+    - lesão palpebral com suspeita de neoplasia (como lesões ulceradas, pigmentadas, nodulares);
+    - alteração da posição das pálpebras (ptose, retração, ectrópio, entrópio);
+    - má oclusão palpebral (lagoftalmo);
+    - dermatocálase (excesso de pele e flacidez palpebral superior) com obstrução do eixo visual;
+    - hordéolo recorrente ou calázio sem resposta ao tratamento clínico2;
+    - simbléfaro (adesão entre a pálpebra e a superfície ocular);
+    - espasmos involuntários (blefaroespasmo, espasmo hemifacial).
+- Vias lacrimais:
+    - epífora (lacrimejamento) crônica;
+    - dacriocistite (inflamação do saco lacrimal) crônica ou recorrente;
+    - canaliculite (inflamação dos canalículos) crônica ou recorrente.
+- Órbita:
+    - exoftalmo crônico (relacionada ou não à Doença de Graves);
+    - qualquer distopia do globo ocular (proptose, enoftalmo, distopias verticais ou horizontais), podendo traduzir efeito de massa ou outro processo orbitário;
+    - massas na topografia da glândula lacrimal.
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter:
+
+1. sinais e sintomas (descrição da alteração palpebral, de vias lacrimais ou de órbita, tempo de evolução, recorrência);
+2. anexar fotografias das alterações;
+3. apresenta comprometimento funcional/obstrução do eixo visual (sim ou não). Se sim, descreva;
+4. realizou tratamento prévio para a condição (se indicado). Se sim, descreva;
+5. em caso de doença orbitária, anexar laudo de exames de imagem (TC ou RMN), preferencialmente, ou descrever na íntegra os seus resultados, com data (se realizado);

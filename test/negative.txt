@@ -1,0 +1,11 @@
+Idade: 63 anos
+Sexo: Masculino
+Justificativa: Paciente 63 anos, apresentando ordéolo/terçol em pálpebra de olho Direito há 3 semanas. Esteve no HRT dia 28/05/25, atendido na urgência foi prescrito ciprofloxacino e dexametasona e comrpessão morna e solicitado encaminhamneto para avaliação cirurgica. Queixa dor e prurido. Solicito avaliação.
+Risco: Emergência
+Procedimento: Consulta em oftalmologista - pterigio calazio - pre-operatorio
+
+Idade: 7 meses
+Sexo: Feminino
+Justificativa: LACTANTE DE 6 MESES, PARTO PREMATURO COM 35 SEMANAS POR OLIGODRAMNIO, ESTEVE EM UTI, FEZ USO DE OXIGENIOTERAPIA, NECESSITA AVALIAÇÃO PELO OFTALMOLOGISTA.
+Risco: Urgência
+Procedimento: Consulta em oftalmologista - retina do recem nascido
