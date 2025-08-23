@@ -1,5 +1,7 @@
 # Protocolo 4 – Estrabismo
 
+O estrabismo pode ser constante, intermitente (aparece ocasionalmente) ou latente (aparece quando oclui momentaneamente um dos olhos). Os critérios de encaminhamento se aplicam a todas essas variações. Consultar o teste de Hirschberg para auxílio no diagnóstico. 
+
 ## Condições clínicas que indicam a necessidade de encaminhamento para emergência clínica:
 
 - estrabismo de início abrupto, especialmente se associado à cefaleia, diplopia e/ou sinais meníngeos;
@@ -15,4 +17,4 @@
 
 1. sinais e sintomas (descreva idade de início, evolução e sintomas associados como diminuição de acuidade visual, torcicolo, diplopia);
 2. o tipo de desvio: esodesvio (convergente), exodesvio (divergente) ou desvio vertical;
-3. medida de acuidade visual (tabela de acuidade visual - figura 1 e figura 2) em cada olho, informando se a mesma foi realizada com ou sem a lente corretiva (se disponível);
+3. medida de acuidade visual (tabela de acuidade visual) em cada olho, informando se a mesma foi realizada com ou sem a lente corretiva (se disponível);

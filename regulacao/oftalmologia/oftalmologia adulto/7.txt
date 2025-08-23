@@ -24,6 +24,5 @@
 ## Conteúdo descritivo mínimo que o encaminhamento deve ter:
 
 1. sinais e sintomas (diminuição da acuidade visual, dor ou desconforto, lacrimejamento intenso, secreção ocular);
-2. medida de acuidade visual (tabela de acuidade visual - figura 1 e figura 2) em cada olho, informando se foi realizada com ou sem a lente corretiva (se disponível);
+2. medida de acuidade visual (tabela de acuidade visual) em cada olho, informando se foi realizada com ou sem a lente corretiva (se disponível);
 3. descreva tratamento realizado para condição (se indicado);
-4. número da teleconsultoria ou telediagnóstico, se caso discutido com TelessaúdeRS-UFRGS.

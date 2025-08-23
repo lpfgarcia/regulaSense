@@ -1,0 +1,46 @@
+# Protocolo 8 – Uveítes
+
+## Condições clínicas que indicam a necessidade de encaminhamento para emergência oftalmológica:
+
+- suspeita de uveíte anterior ativa (hiperemia conjuntival perilímbica, fotossensibilidade, dor ocular, presença de precipitados ceráticos, hipópio);
+- suspeita de uveíte posterior (redução súbita de acuidade visual, aparecimento súbito e/ou aumento recente de moscas volantes).
+
+## Condições clínicas que indicam a necessidade de encaminhamento para emergência clínica:
+
+- paciente com suspeita de neurossífilis por sinais ou sintomas oftalmológicos agudos/subagudos;
+- uveítes ativas com indicação de tratamento sistêmico: retinite viral (necrose aguda de retina, necrose progressiva da retina externa ou retinite por citomegalovírus) e descolamento exsudativo da retina (oftalmia simpática e síndrome de Vogt-Koyanagi-Harada).
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Oftalmologia em serviço de alta complexidade:
+
+- diagnóstico de uveíte ativa, após avaliação em serviço de emergência oftalmológica;
+- casos de uveíte já avaliados por oftalmologista e que necessitem tratamento ou investigação adicional em serviço especializado;
+- necessidade de intervenção cirúrgica (ceratopatia em faixa, catarata complicada, opacidades vítreas, descolamento de retina) em olhos com uveíte prévia ou em atividade.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Medicina Interna ou Reumatologia:
+
+- diagnóstico de uveíte associado a achados clínicos sugestivos de doença sistêmica, se afastadas causas infecciosas (quadro 7).
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter:
+
+1. sinais e sintomas (dor, hiperemia, baixa de visão, tempo de evolução);
+2. histórico de crises prévias de uveíte (sim ou não). Se sim, em qual olho e data aproximada;
+3. paciente apresenta imunossupressão (sim ou não). Se sim, descreva a causa;
+4. medida de acuidade visual (tabela de acuidade visual) em cada olho, informando se a mesma foi realizada com ou sem a lente corretiva (se disponível);
+5. anexar, preferencialmente, ou descrever contrarreferência ou relatório do oftalmologista com resumo do quadro, se disponível;
+6. anexar laudo de exames complementares1, preferencialmente, ou descrever na íntegra os seus resultados, com data (se realizados);
+
+## Quadro 7 – Classificação anatômica da uveíte e as principais condições associadas.
+Classificação anatômica; Local primário de inflamação; Causas sistêmicas; Causas infecciosas; Causas oftalmológicas
+Uveíte anterior; Câmara anterior; Espondiloartrites (espondilite anquilosante, espondiloartropatia indiferenciada, artrite psoriática, artrite reativa espondiloartropatia associada a doença inflamatória intestinal), artrite idiopática juvenil, sarcoidose, doença de Behçet.; Infecção por herpes simples, varicela-zoster, citomegalovírus, sífilis.;  Iridociclite heterocrômica de Fuchs ou Síndrome de Fuchs.; 
+Uveíte intermediária; Corpo vítreo; Esclerose múltipla, sarcoidose, nefrite tubulointersticial.; Sífilis, doença de Lyme.; Pars planite, uveíte intermediária indiferenciada.;
+Uveíte posterior; Retina e/ou coroide; Sarcoidose.; Toxoplasmose, sífilis, tuberculose, infecção por citomegalovírus, necrose aguda da retina (infecção por herpes simples ou por varicela-zóster), Bartonella, Doença de Lyme.;  Epiteliopatia pigmentar placoide multifocal posterior aguda, coriorretinopatia de Birdshot, síndrome dos múltiplos pontos evanescentes, coroidopatia interna pontilhada, coroidite placoide implacável, coroidite serpiginosa, coroidite multifocal e panuveíte1.;
+Panuveíte; Câmara anterior, corpo vítreo e retina ou coroide (sem predomínio entre sítios acometidos).; Sarcoidose, doença e
+Behçet, Doença de VogtKoyanagi-Harada.;  Sífilis, doença de Lyme.; Oftalmia simpática
+
+Avaliação clínica inicial após diagnóstico de uveíte
+-  Anamnese e exame físico, identificando se há sinais e sintomas de doenças sistêmicas que causam uveíte2.
+-  Deve-se evitar a solicitação de múltiplos testes com objetivo de rastreamento. A investigação complementar deverá ser direcionada de acordo com a suspeita clínica determinada por anamnese e exame físico.
+-  Se não houver suspeita específica, solicitar:
+    -  radiografia de tórax;
+    - teste rápido para sífilis (ou outro teste treponêmico);
+    - teste rápido para HIV (ou anti-HIV).

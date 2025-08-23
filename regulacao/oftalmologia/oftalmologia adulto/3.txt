@@ -1,12 +1,14 @@
 # Protocolo 3 – Retinopatia ou Outras Doenças de Retina
 
+Todo paciente com diabetes mellitus tipo 1 ou tipo 2 ou em uso crônico de cloroquina/hidroxicloroquina necessitam rastreamento para retinopatia, mesmo que assintomáticos (quadro 2 e quadro 3). Não é necessário encaminhar para rastreamento gestantes com diabetes gestacional, apenas gestantes com diabetes preexistente.
+
 ## Condições clínicas que indicam a necessidade de encaminhamento para emergência oftalmológica:
 
 - diminuição de acuidade visual aguda ou queixa visual associada à percepção súbita de sombra ou cortina sobre parte do campo de visão, fotopsia (flashes luminosos), moscas volantes ou metamorfopsia (percepção irreal de tortuosidade ou deformação da imagem)
 
 ## Condições clínicas que podem ser avaliadas pelo TeleOftalmo ou Oftalmologia em serviço de média complexidade:
 
-- rastreamento de retinopatia em pacientes não gestantes com diabetes mellitus (DM1 ou DM2), sem diagnóstico prévio de retinopatia diabética;
+- rastreamento de retinopatia em pacientes não gestantes com diabetes mellitus (DM1 ou DM2), sem diagnóstico prévio de retinopatia diabética (quadro 2);
 - avaliação anual de paciente não gestante com diagnóstico de retinopatia diabética não-proliferativa leve (na ausência de edema macular).
 
 ## Condições clínicas que indicam a necessidade de encaminhamento para Oftalmologia em serviço de média complexidade:
@@ -14,7 +16,7 @@
 - rastreamento de retinopatia diabética em gestantes com DM1 ou DM2 preexistente, preferencialmente no primeiro trimestre gestacional;
 - diagnóstico de retinopatia diabética com retinopatia não proliferativa leve na impossibilidade de acompanhar por retinografia na APS (via TeleOftalmo) ou com baixa de visão a despeito da melhor correção óptica;
 - diagnóstico de retinopatia diabética não proliferativa moderada;
-- rastreamento de maculopatia em pacientes que utilizam cloroquina/hidroxicloroquina.
+- rastreamento de maculopatia em pacientes que utilizam cloroquina/hidroxicloroquina (quadro 3).
 
 ## Condições clínicas que indicam a necessidade de encaminhamento para Oftalmologia em serviço de alta complexidade:
 
@@ -32,3 +34,19 @@
 4. se gestante, descreva idade gestacional;
 5. se paciente utiliza hidroxicloroquina/cloroquina, descreva indicação, dose e quando foi o início;
 6. anexar laudo de retinografia, preferencialmente, ou descrever na íntegra os seus resultados, com data;
+
+## Quadro 2 – Indicações de rastreamento de retinopatia diabética.
+Grupo de pacientes; Primeiro exame recomendado; Acompanhamento mínimo de rotina
+Diabetes tipo 1; Em até 5 anos após o diagnóstico de diabetes mellitus; Anualmente, se houver retinopatia1. A cada 2 anos, se não houver evidência de retinopatia.;
+Diabetes tipo 2; No momento do diagnóstico de diabetes mellitus.; Anualmente, se houver retinopatia1. A cada 2 anos, se não houver
+evidência de retinopatia.;
+Gravidez com diabetes preexistente; Antes da concepção e durante o primeiro trimestre. Aconselhar sobre o risco de desenvolvimento e/ou progressão da retinopatia.; Acompanhamento rigoroso durante o 1º trimestre da gestação e após, conforme orientação do oftalmologista.
+
+## Quadro 3 – Indicações de rastreamento de retinopatia em usuários de cloroquina/hidroxicloroquina.
+Avaliação de base: Deve ser realizada no primeiro ano de uso da medicação. Deve conter fundoscopia (para excluir doença retiniana pré-existente) e, se disponíveis, exames complementares*, como campimetria computadorizada e OCT (tomografia de coerência óptica).;
+Avaliação anual: A partir do 5° ano do uso do fármaco, na ausência de fatores de risco. Na presença destes, o rastreamentodeve começar antes (em 1 ano do início do uso). Fatores de risco para toxicidade retiniana em usuários de cloroquina/hidroxicloroquina:
+- dose diária > 5 mg/kg (peso real) de hidroxicloroquina e > 2,3 mg/kg (peso real) de cloroquina;
+- duração de uso ≥ 5 anos;
+- doença renal crônica;
+- uso concomitante de tamoxifeno;
+- doença macular subjacente.
