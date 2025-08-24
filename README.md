@@ -4,6 +4,6 @@
  ```bash
    conda create -n regulaSense python=3.11 -y
    conda activate regulaSense
-   pip install requirements.txt
+   pip install -r requirements.txt
    chainlit run app.py -w
    ```
