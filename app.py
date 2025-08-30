@@ -1,8 +1,12 @@
 import os
-import protocol
-import chainlit as cl
+import protocol, suport
 
-from openai import AsyncOpenAI
+import chainlit as cl
+import callbacks as cbk
+import prompt_templates as pt
+
+from langchain_openai import ChatOpenAI
+from langchain.prompts import ChatPromptTemplate
 
 MODEL_NAME = 'gpt-4o'
 OPENAI_KEY = os.getenv('OPENAI_API_KEY')
@@ -12,148 +16,146 @@ def read_file(path):
         lines = f.readlines()
     return lines    
 
+@cl.set_chat_profiles
+async def chat_profile():
+    return [
+        cl.ChatProfile(
+            name='GPT-4o',
+            markdown_description='Modelo eficiente e acessível.',
+            icon='public/chat/ses.png',
+        )]
+
 @cl.on_chat_start
 async def start():
-    client = AsyncOpenAI(api_key=OPENAI_KEY)
-    cl.user_session.set('client', client)
-    await cl.Message(content=f'''Olá! Sou um Assistente da Secretaria de Saúde do Distrito Federal.
-        Por favor, informe a idade, o sexo, a justificativa, o risco e o procedimento solicitado do paciente.''').send()
+    llm = ChatOpenAI(model=MODEL_NAME, temperature=0.1, 
+        callbacks=[cbk.MessagesHandler()])
+    cl.user_session.set('llm', llm)
+    await cl.Message(content=pt.CHAT_START).send()
 
-@cl.step(name='Conferindo se as informações estão completas...', type='tool')
+@cl.step(name='Conferindo se as informações estão completas...', type='llm')
 async def info_checker(msg: cl.Message):
     
-    client = cl.user_session.get('client')
-    response = await client.chat.completions.create(
-        model=MODEL_NAME, 
-        messages=[
-            {'content': f'''Você é um Assistente da Secretaria de Saúde do Distrito Federal.''', 'role': 'system'},
-            {'content': f'''O usuário informou a idade, o sexo, a justificativa, o risco e o procedimento solicitado na mensagem?
-            Responda **somente** com **SIM** ou **NÃO**. Mensagem: {msg.content}''', 'role': 'user'}
-        ], temperature=0
-    )
+    llm = cl.user_session.get('llm')
+    prompt = ChatPromptTemplate.from_messages([
+        ('system', f'{pt.SYSTEM}'),
+        ('user', f'{pt.PROMPT_CHECK} Mensagem: {msg.content}')
+    ])
 
-    response = response.choices[0].message.content
+    chain = prompt | llm
+    response = chain.invoke({'mensagem': msg.content})
 
-    if 'sim' in response.lower():
+    if 'SIM' in response.content:
         return True
-    return False
 
-@cl.step(name='Verificando quais informações estão incompletas...', type='tool')
-async def info_explanation(msg: cl.Message):
-    
-    client = cl.user_session.get('client')
-    response = await client.chat.completions.create(
-        model=MODEL_NAME, 
-        messages=[
-            {'content': f'''Você é um Assistente da Secretaria de Saúde do Distrito Federal.''', 'role': 'system'},
-            {'content': f'''O usuário esqueceu de informar um ou mais dos seguintes campos: idade, sexo, justificativa, risco e procedimento solicitado.
-            Indique **somente** quais campos estão faltando na mensagem, sem acrescentar explicações extras. 
-            Mensagem: {msg.content}''', 'role': 'user'}
-        ], temperature=0
-    )
+    response.content = '\n'.join(response.content.splitlines()[1:])
+    return response.content
 
-    response = response.choices[0].message.content
-    return response
-
-@cl.step(name='Identificando o Área...', type='tool')
+@cl.step(name='Identificando o Área...', type='llm')
 async def area_protocol(msg: cl.Message):
 
-    client = cl.user_session.get('client')
-    response = await client.chat.completions.create(
-        model=MODEL_NAME, 
-        messages=[
-            {'content': f'''Você é um Assistente da Secretaria de Saúde do Distrito Federal.''', 'role': 'system'},
-            {'content': f'''Com base na mensagem, qual dos protocolos deve ser utilizado?
-            Mensagem: {msg.content}
-            Protocolos: {protocol.AREA}
-            Responda **somente** com o **nome** do protocolo.''', 'role': 'user'}
-        ], temperature=0
-    )
+    llm = cl.user_session.get('llm')
+    prompt = ChatPromptTemplate.from_messages([
+        ('system', f'{pt.SYSTEM}'),
+        ('user', f'{pt.PROMPT_PROTOCOL} Mensagem: {msg.content} \
+            Protocolos: {protocol.AREA}')
+    ])
 
-    response = response.choices[0].message.content
-    return response
+    chain = prompt | llm
+    response = chain.invoke({'mensagem': msg.content})
 
-@cl.step(name='Identificando o Protocolo Geral...', type='tool')
+    if 'NENHUM' in response.content:
+        return False
+
+    return response.content
+
+@cl.step(name='Identificando o Protocolo Geral...', type='llm')
 async def general_protocol(area: str, msg: cl.Message):
 
-    client = cl.user_session.get('client')
-    response = await client.chat.completions.create(
-        model=MODEL_NAME, 
-        messages=[
-            {'content': f'''Você é um Assistente da Secretaria de Saúde do Distrito Federal.''', 'role': 'system'},
-            {'content': f'''Com base na mensagem, qual dos protocolos deve ser utilizado?
-            Mensagem: {msg.content}
-            Protocolos: {getattr(protocol, area.upper())}
-            Responda **somente** com o **nome** do protocolo.''', 'role': 'user'}
-        ], temperature=0
-    )
+    llm = cl.user_session.get('llm')
+    prompt = ChatPromptTemplate.from_messages([
+        ('system', f'{pt.SYSTEM}'),
+        ('user', f'{pt.PROMPT_PROTOCOL} Mensagem: {msg.content} \
+            Protocolos: {getattr(protocol, area.upper())}')
+    ])
 
-    response = response.choices[0].message.content
-    return response
+    chain = prompt | llm
+    response = chain.invoke({'mensagem': msg.content})
 
-@cl.step(name='Identificando o Protocolo Específico...', type='tool')
+    if 'NENHUM' in response.content:
+        return False
+
+    return response.content
+
+@cl.step(name='Identificando o Protocolo Específico...', type='llm')
 async def specific_protocol(general: str, msg: cl.Message):
 
-    client = cl.user_session.get('client')
-    response = await client.chat.completions.create(
-        model=MODEL_NAME, 
-        messages=[
-            {'content': f'''Você é um Assistente da Secretaria de Saúde do Distrito Federal.''', 'role': 'system'},
-            {'content': f'''Com base na mensagem, qual dos protocolos deve ser utilizado?
-            Mensagem: {msg.content}
-            Protocolos: {getattr(protocol, general.upper().replace(' ', '_'))}
-            Responda **somente** o **número** do protocolo. Se não souber retorne **0**.''', 'role': 'user'}
-        ], temperature=0
-    )
+    llm = cl.user_session.get('llm')
+    prompt = ChatPromptTemplate.from_messages([
+        ('system', f'{pt.SYSTEM}'),
+        ('user', f'{pt.PROMPT_ESPECIFIC} Mensagem: {msg.content} \
+            Protocolos: {getattr(protocol, general.upper().replace(" ", "_"))}')
+    ])
 
-    response = response.choices[0].message.content
-    return response
+    chain = prompt | llm
+    response = chain.invoke({'mensagem': msg.content})
 
-@cl.step(name='Detectando se a justificativa atende o Protocolo Específico...', type='tool')
+    if 'NENHUM' in response.content:
+        return False
+
+    return response.content
+
+@cl.step(name='Apontando se a justificativa atende o Protocolo...', type='llm')
 async def protocol_analysis(document: str, msg: cl.Message):
 
-    client = cl.user_session.get('client')
-    response = await client.chat.completions.create(
-        model=MODEL_NAME, 
-        messages=[
-            {'content': f'''Você é um Assistente da Secretaria de Saúde do Distrito Federal.''', 'role': 'system'},
-            {'content': f'''Com base na mensagem e no conteúdo descritivo mínimo do protocolo, o procedimento deve ser aceito?
-            Responda **somente** **SIM** ou **NÃO**. Se **NÃO**, retorne a justificativa.\n
-            Mensagem: {msg.content}\n
-            Protocolo: {document}''', 'role': 'user'}
-        ], temperature=0
-    )
+    llm = cl.user_session.get('llm')
+    prompt = ChatPromptTemplate.from_messages([
+        ('system', f'{pt.SYSTEM}'),
+        ('user', f'{pt.PROMPT_JUSTIFICATION} Mensagem: {msg.content} \
+            Protocolo: {document}')
+    ])
 
-    return response.choices[0].message.content
+    chain = prompt | llm
+    response = chain.invoke({'mensagem': msg.content})
+
+    if 'SIM' in response.content:
+        return True    
+
+    response.content = '\n'.join(response.content.splitlines()[1:])
+    return response.content
 
 @cl.on_message
 async def message(msg: cl.Message):
 
-    status = await info_checker(msg)
+    info = await info_checker(msg)
+    if info is not True:
+        await cl.Message(content=f'Campos ausêntes:\n{info}').send()
+        return
 
-    if status:
+    area = await area_protocol(msg)
+    if area is False:
+        await cl.Message(content=f'Protocolo não identificado.').send()
+        return
 
-        area = await area_protocol(msg)
-        general = await general_protocol(area, msg)
-        specific = await specific_protocol(general, msg)
-        
-        if specific.isdigit() and int(specific) > 0:
-            
-            path = 'regulacao/' + area.lower() + '/' + general.lower() + '/' + specific + '.txt'
-            document = read_file(path)
-            
-            justification = await protocol_analysis(document, msg)
-            
-            if 'sim' in justification.lower():
-                await cl.Message(content=f'Justificativa **suficiente**').send()
-            else:
-                await cl.Message(content=f'Justificativa **insuficiente**\n + {justification}').send()    
-        
-        else:
-        
-            await cl.Message(content=f'Protocolo não identificado. Desculpe-me!').send()    
+    general = await general_protocol(area, msg)
+    if general is False:
+        await cl.Message(content=f'Protocolo não identificado.').send()
+        return
+    
+    specific = await specific_protocol(general, msg)
+    if specific is False:
+        await cl.Message(content=f'Protocolo não identificado.').send()
+        return
 
-    else: 
-        await cl.Message(content=f'''Os seguintes campos estão ausêntes: {info_explanation(msg)}.''').send()
+    path =  area.lower() + '/' + general.lower() + '/' + specific + '.txt'
+    document = read_file('regulacao/' + path)
+
+    just = await protocol_analysis(document, msg)
+    if just is True:
+        await cl.Message(content=f'Justificativa **suficiente**.').send()
+        return
+
+    await cl.Message(content=f'Justificativa **insuficiente**:\n{just}').send()    
+
+
 
         
