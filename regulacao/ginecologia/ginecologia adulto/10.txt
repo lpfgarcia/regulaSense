@@ -1,0 +1,42 @@
+# Protocolo 10 – Neoplasia do Colo Uterino
+
+As condutas sugeridas a partir do resultado dos resultados do exame citopatológico estão descritas no quadro 6. 
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Ginecologia ou Oncologia Ginecologia:
+
+**Resultado de um exame citopatológico (CP) do colo uterino com:**
+- células escamosas atípicas de significado indeterminado quando não se pode excluir lesão intraepitelial de alto grau (ASC-H);
+- células glandulares atípicas de significado indeterminado (possivelmente não neoplásico ou quando não se pode excluir lesão intraepitelial de alto grau) (AGC);
+- células atípicas de origem indefinida (possivelmente não neoplásica ou quando não se pode excluir lesão de alto grau);
+- lesão intraepitelial de alto grau (HSIL);
+- lesão intraepitelial de alto grau não podendo excluir microinvasão;
+- mulheres imunossuprimidas (HIV e transplantadas), com doença autoimune ou em uso de drogas imunossupressoras com:
+    - lesão intraepitelial de baixo grau (LSIL); ou
+    - células escamosas atípicas de significado indeterminado possivelmente não neoplásico (ASC-US).
+
+**Resultado de dois CP consecutivos (conforme intervalo indicado) com:**
+- ASC-US;
+- LSIL.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Oncologia Ginecologia:
+
+- lesão suspeita (como tumores ou úlceras) ao exame especular;
+- resultado de biópsia de colo com:
+    - neoplasia invasora (carcinoma epidermoide/adenocarcinoma); ou
+    - carcinoma microinvasor; ou
+    - NIC 2/3;
+- resultado de CP com:
+    - carcinoma epidermoide invasor; ou
+    - adenocarcinoma in situ (AIS) e invasor.
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter:
+
+1. sinais e sintomas;
+2. exame físico ginecológico (exame especular e toque vaginal);
+3. paciente é imunossuprimida (sim ou não);
+4. anexar resultado(s) do(s) último(s) CP, preferencialmente, ou descrever na íntegra os seus resultados, com data;
+5. anexar resultado de colposcopia, com data (se realizada);
+6. anexar resultado de biópsia de colo do útero, preferencialmente, ou descrever na íntegra os seus resultados, com data (se realizada)
+
+## Quadro 6 – Conduta sugerida de acordo com resultado do exame citopatológico (CP) do colo do útero.
+TODO

@@ -1,0 +1,43 @@
+# Protocolo 1 – Sangramento Uterino Anormal
+
+**Atenção:** sempre descartar gravidez (em mulher na menacme) e sangramento por patologias cervicais na investigação inicial de sangramento uterino anormal.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para urgência/emergência:
+
+- sangramento uterino anormal associado à anemia sintomática (dispneia, taquicardia, hipotensão) e/ou instabilidade hemodinâmica.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Ginecologia:
+
+- sangramento uterino anormal em mulher na menacme e:
+    - ausência de resposta ao tratamento clínico otimizado por 3 meses, após excluídas causas secundárias como alteração tireoidiana, hiperprolactinemia, escape por anticoncepcional hormonal de baixa dosagem, métodos contraceptivos que contenham somente progestágenos ou doença inflamatória pélvica; ou
+    - mioma intramural ou subseroso, refratário ao tratamento clínico otimizado por 3 meses; ou
+    - mioma intramural ou subseroso em paciente que deseja gestar; ou
+    - mioma submucoso; ou
+    - pólipo endometrial ou espessura endometrial maior ou igual a 12 mm por ecografia pélvica transvaginal realizada na primeira fase do ciclo menstrual; ou
+    - adenomiose, refratária ao tratamento clínico otimizado por 3 meses; ou
+    - idade igual ou maior que 45 anos; ou
+    - pelo menos um fator de risco para câncer de endométrio¹.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Oncologia Ginecologia (preferencialmente) ou Ginecologia:
+
+- sangramento uterino pós-menopausal.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Ginecologia ou Hematologia:
+
+- mulher na menacme com suspeita de sangramento uterino anormal por discrasia sanguínea (sangramento uterino aumentado desde a menarca ou história familiar de coagulopatia ou múltiplas manifestações hemorrágicas).
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter:
+
+1. sinais e sintomas (características do sangramento, tempo de evolução, frequência dos episódios, volume de sangramento, presença de coágulos, número de absorventes utilizados, outras informações relevantes);
+2. exame físico ginecológico (exame especular e toque vaginal);
+3. índice de massa corpórea (IMC);
+4. paciente está na menopausa (sim ou não);
+5. paciente com fatores de risco para câncer de endométrio1 (sim ou não). Se sim, descreva;
+6. tratamento em uso ou já realizado para o sangramento uterino (medicamentos utilizados com dose e posologia);
+7. resultado de hemograma, com data;
+8. outras doenças ou condições clínicas associadas (sim ou não). Se sim descreva quais e medicações em uso;
+9. anexar laudo de ecografia transvaginal, preferencialmente, ou descrever na íntegra os seus resultados, com data;
+10. anexar resultado do último citopatológico de colo uterino, preferencialmente, ou descrever na íntegra o seu resultado, com data, conforme rotina de rastreamento de neoplasia do colo uterino;
+11. resultado de outros exames complementares, quando indicada a investigação de causas secundárias, com data.
+
+¹ Fatores de risco para câncer de endométrio: obesidade, nuliparidade, diabetes, anovulação crônica, uso de tamoxifeno, tumor secretor de estrogênio, Síndrome de Lynch (câncer colorretal hereditário não poliposo), Síndrome de Cowden, história familiar de câncer de endométrio, ovário, mama ou cólon.

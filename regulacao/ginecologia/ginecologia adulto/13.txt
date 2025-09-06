@@ -1,0 +1,49 @@
+# Protocolo 13 – Lesões Vulvares
+
+Na avaliação de pacientes com lesões vulvares (grandes e pequenos lábios, vestíbulo, clitóris, períneo) deve-se questionar sobre lesões em outras partes do corpo e inspecionar toda a pele para diagnóstico diferencial entre doença sistêmica e doença vulvar primária.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Ginecologia ou Dermatologia:
+
+- lesões em vulva que não se resolvem após terapia proposta para o diagnóstico clínico inicial;
+- neoplasia intraepitelial de vulva (NIV) 1 confirmada em anatomopatológico.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Oncologia Ginecologia:
+
+- lesões vulvares com suspeita clínica de malignidade:
+    - assimetria, bordas irregulares, variação de cor, mudança rápida, sangramento; ou
+    - úlceras que não cicatrizam; ou
+    - enduradas ao toque;
+- suspeita clínica ou diagnóstico de líquen escleroso vulvar confirmado em anatomopatológico e:
+    - surgimento de nova lesão com suspeita clínica de malignidade; ou
+    - áreas previamente acometidas com desenvolvimento de características suspeitas de malignidade;
+    - sem melhora com tratamento clínico otimizado¹;
+- NIV 2 ou 3 confirmada em anatomopatológico;
+- neoplasia maligna de vulva confirmada em anatomopatológico.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Oncologia Cirurgia Pele:
+
+- melanoma em vulva confirmado em anatomopatológico, se necessária investigação de linfonodo sentinela² e/ou ampliação de margens;
+- suspeita clínica de melanoma (quadro 12) em vulva.
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter:
+
+1. descrição do quadro clínico (localização,tamanho em cm,características (assimetria, bordas, cores, crescimento), ulceração (sim/não), tempo de evolução);
+2. anexar fotografias da lesão (se autorizado pela paciente);
+3. IMC;
+4. resultado teste rápido para HIV ou de anti-HIV, com data;
+5. tratamento prévio realizado (descrever medicamentos, duração, número de aplicações, com data);
+6. se mulher em idade fértil, trata-se de gestante (sim ou não);
+7. outras doenças ou condições clínicas associadas (sim ou não). Se sim descreva quais e medicações em uso
+
+¹Tratamento clínico otimizado: corticoide tópico de alta potência (ex: clobetasol 0,05% pomada), diariamente, à noite, por 6 a 12 semanas. Se os sintomas melhorarem, manter aplicações noturnas 2 a 3 vezes por semana.
+²Não há indicação para investigação de linfonodo sentinela em casos de melanoma in situ ou melanoma com Breslow < 0,8 mm, sem ulceração (confirmado por biópsia excisional). Todos os outros casos devem ser encaminhados para Oncologia Cirurgia Pele para definição.
+
+## Quadro 12 – Suspeita clínica de melanoma.
+**Lesão melanocítica com:**
+- sinal do “patinho feio”: lesão pigmentada com padrão diferente das outras; ou
+- um ou mais critérios da regra do ABCDE:
+    A. assimetria;
+    B. bordas irregulares;
+    C. cores variadas (pelo menos duas cores diferentes na lesão);
+    D. diâmetro maior que 6 mm;
+    E. evolução (alteração recente de tamanho, forma, cor, aparência).

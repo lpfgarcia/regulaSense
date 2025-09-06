@@ -1,0 +1,25 @@
+# Protocolo 8 – Climatério
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Ginecologia:
+
+- persistência de sintomas associados ao climatério após tratamento clínico otimizado¹ por 6 meses.
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter:
+
+1. sinais e sintomas;
+2. idade da paciente quando iniciou a amenorreia ou sintomas climatéricos;
+3. tratamentos em uso ou já realizados para manejos dos sintomas (medicamentos utilizados com dose e posologia);
+4. história prévia de neoplasia maligna ginecológica ou ooferectomia (sim ou não). Se sim, descreva.
+
+¹ Tratamento clínico otimizado é definido como mudanças de estilo de vida associado a terapia farmacológica, de acordo com a gravidade dos sintomas apresentados, conforme descrito no quadro 5.
+
+## Quadro 5 – Tratamento da Síndrome Climatérica de acordo com sintomatologia apresentada.
+Quadro clínico|Opções terapêuticas²
+Alterações dos ciclos menstruais|- No período anterior à menopausa propriamente, pode ocorrer sangramento aumentado, podendo ser realizada abordagem farmacológica com métodos hormonais.
+Sintomas vasomotores| - Modificações de estilo de vida: roupas leves, arejadas e confortáveis que possam ser facilmente retiradas em caso de calor excessivo; manutenção de temperatura ambiente mais baixa; consumo de bebidas frescas; não fumar, evitar consumo de bebidas
+alcoólicas e de cafeína; perda de peso se sobrepeso ou obesidade. - Terapia de reposição hormonal sistêmica. - Terapias não hormonais: inibidores seletivos de recaptação da serotonina (ISRS); inibidores seletivos da recaptação da serotonina e noradrenalina (IRSN); clonidina; gabapentina.
+Alterações do sono| - Se prejuízo por sintomas vasomotores, tratar conforme item anterior. - Medidas de higiene do sono.
+Sintomas urogenitais| - Terapia de reposição hormonal sistêmica, se associação com sintomas vasomotores. - Terapia estrogênica tópica. - Terapia não hormonal com uso tópico de lubrificantes e hidratantes vaginais à base de água ou silicone.
+Transtornos psicossociais| - Questionar a presença de situações de saúde mental; estimular a participação em atividades sociais e a prática de hábitos de vida saudáveis. - Avaliar e tratar estados depressivos e/ou ansiosos, quando necessário.
+
+² A abordagem das pessoas no climatério deve ser realizada de forma integral, atentando-se para a adoção de estilo de vida saudável (alimentação, atividade física, higiene do sono), questões sexuais, reprodutivas e de saúde mental.

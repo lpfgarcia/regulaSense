@@ -1,0 +1,109 @@
+# Protocolo 12 – Condiloma Acuminado, Verrugas Virais e Molusco Contagioso
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Ginecologia:
+
+- mulheres com condiloma acuminado (verruga anogenital) com indicação de tratamento cirúrgico (lesões extensas ou muito numerosas).
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Dermatologia:
+
+- verruga viral, condiloma acuminado (verruga anogenital) ou molusco contagioso:
+    - em paciente imunocomprometida, refratária ao tratamento por pelo menos 1 mês (quadro 9, quadro 10 e quadro 11) ou com progressão rápida no número de lesões;
+    - em paciente imunocompetente, refratária ao tratamento por pelo menos 3 meses (quadro 9, quadro 10 e quadro 11); ou
+    - em crianças com acometimento genital, se múltiplas lesões ou associadas a sintomas (dor, sangramento, prurido); ou
+    - lesões faciais:
+        - verrugas virais (exceto verrugas planas); ou
+        - molusco contagioso na face em adultos; ou
+        - molusco contagioso periocular em adultos e crianças.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Obstetrícia em Ambulatório de Gestação de Alto Risco Tipo II (AGAR – II)
+
+- gestante com condiloma acuminado (verruga anogenital) com indicação de tratamento cirúrgico (lesões que obstruem o canal do parto, lesões extensas ou numerosas – maiores que 20 cm2);
+- gestante com condiloma acuminado no canal vaginal ou colo uterino.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Urologia:
+
+- mulher com condilomas junto ao meato uretral ou em uretra distal.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Proctologia:
+
+- mulher com condiloma acuminado em topografia anorretal com indicação de tratamento cirúrgico (lesões retais ou lesões perianais extensas ou muito numerosas).
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter:
+
+1. descrição quadro clínico (localização, número, tempo de evolução, extensão e toque retal, se condiloma anorretal);
+2. anexar fotografias das lesões (se autorizado pela paciente);
+3. resultado teste rápido para HIV ou de anti-HIV, com data;
+4. tratamento prévio realizado (descrever medicamentos, posologia e tempo de uso);
+5. se mulher em idade fértil, trata-se de gestante (sim ou não).
+
+
+**Atenção:** embora seja possível que muitas crianças com condiloma acuminado adquiram a doença por meios não sexuais, a possibilidade de abuso sexual merece séria consideração durante a avaliação do paciente, cabendo ao profissional da APS tomar as medidas cabíveis nessas situações. É recomendado investigar outras IST em pessoas que apresentam condiloma acuminado. Oferecer testagem para sífilis e HIV no momento do diagnóstico e em 4 a 6 semanas após o diagnóstico, e para hepatite B e C no diagnóstico, além de PCR para Clamídia e Gonococo, se disponível. O uso de testes rápidos deve ser sempre preconizado.
+
+## Quadro 9 – Tratamento para verrugas virais*.
+__**Verrugas vulgares/verrugas palmo-plantares**__
+- **Medicamento à base de ácido salicílico (20%) e ácido láctico (15%) em solução colódio elástico 5 mL ou 10 mL (disponível comercialmente ou sob manipulação):**
+    - a aplicação pode ser feita após o banho ou após deixar o local imerso em água morna por, no mínimo, 5 a 10 minutos;
+    - lixar, delicadamente, a porção superior da lesão para retirar o excesso de pele (pode ser utilizada uma lixa de unha descartável);
+    - proteger a pele ao redor da verruga com esparadrapo ou vaselina sólida. Deve ser utilizado esparadrapo, e não micropore;
+    - aplicar uma camada fina do medicamento sobre a lesão com a pele seca. Esperar secar e cobrir com outro pedaço de esparadrapo, para ajudar a penetração dos componentes;
+    - trocar esse curativo a cada 24 a 48 horas, tomando o cuidado de repetir todo o procedimento, passo a passo;
+    - deve-se realizar esse procedimento até o desaparecimento da lesão (período é variável, entre 1 a 3 meses);
+    - caso ocorra irritação excessiva da pele perilesional, pode-se diminuir a frequência de uso;
+    - NÃO deve ser utilizado na face e nem em pacientes com neuropatia periférica;
+    - em verrugas palmo-plantares podem ser necessárias concentrações mais elevadas de ácido salicílico (até 40%), disponíveis apenas sob manipulação.
+- **5- Fluoruracila 5% creme:**
+    - aplicar 1 vez ao dia, com oclusão, por 4 a 12 semanas;
+    - é __contraindicado__ na gestação.
+__**Verrugas palmo-plantares**__
+__Tratamento na Unidade de Saúde:__
+- **Ácido tricloracético (ATA) 50 a 80%:**
+    - pode ser utilizado em lesões palmares e plantares, aplicando-se com um palito de madeira (se necessário, colocar pequena quantidade de algodão na ponta) a cada 7 a 10 dias, por até 8 semanas;
+    - pode ocorrer sensação de pinicação e queimação no local durante a aplicação.
+__Verrugas planas__
+- **Tretinoína tópica (0,025%, 0,05% e 0,1%):**
+    - deve-se utilizar a maior concentração tolerada pelo paciente, sempre à noite;
+    - é recomendável proteger a pele ao redor com vaselina antes da aplicação;
+    - caso as lesões sejam em áreas submetidas à depilação com lâminas, orientar paciente a trocar o método depilatório para evitar a disseminação das lesões (optar pelo barbeador elétrico ou creme depilatório);
+    - é __contraindicado__ na gestação.
+- **Imiquimod 5%, tópico:**
+    - aplicar nas lesões (sem oclusão), antes de dormir e retirar pela manhã, por até 12 semanas;
+    - é contraindicado na gestação.
+__**Verrugas filiformes**__
+__Tratamento na Unidade de Saúde (se material disponível):__
+    - **exérese por shaving e eletrocoagulação:** utilizar anestesia local antes da remoção. A eletrocoagulação é útil tanto para a hemostasia quanto para prevenir a recorrência.
+*Lesões perioculares (com exceção de verrugas planas): evitar os tratamentos tópicos. Encaminhar para avaliação presencial com a Dermatologia.
+
+## Quadro 10 – Tratamento para condiloma acuminado*.
+__Tratamento na Unidade de Saúde:__
+- **Ácido tricloracético (ATA): a 80% a 90% (solução):**
+    - aplicar uma vez por semana, por até 8 a 10 semanas;
+    - aplicar pequena quantidade somente nos condilomas, com auxílio de cotonete ou palito de dentes (uma área esbranquiçada se tornará visível no local da aplicação);
+    - aplicar com cuidado, evitando que a solução se espalhe para a pele ao redor da lesão;
+    - se o paciente apresentar dor intensa, o ácido pode ser neutralizado com sabão, bicarbonato de sódio ou talco;
+    - o tratamento pode ser prescrito durante a gestação.
+__Tratamento domiciliar:__
+- **Imiquimod 5% creme:**
+    - aplicar nas lesões, 3 vezes por semana, até melhora clínica completa (por até 16 semanas);
+    - aplicar antes de dormir e lavar a área pela manhã, com água e sabão (deixar o produto em contato com a pele por 6 a 10 horas);
+    - reações locais: eritema, irritação, induração, ulceração, erosões e vesículas. Nesses casos, pode ser dado um intervalo de alguns dias entre as aplicações para diminuir o desconforto do paciente. O tratamento deve ser reiniciado após a melhora dos sintomas;
+    - é contraindicado na gestação
+*Orientar sobre a doença, ofertar preservativos e teste para outras IST (HIV, sífilis, hepatite B e C), avaliar parcerias sexuais
+
+## Quadro 11 – Tratamento para molusco contagioso*.
+- Adultos e adolescentes com lesões genitais devem ser tratados (risco de disseminação sexual).
+- O tratamento precoce também está indicado em pacientes imunossuprimidos (risco de lesões disseminadas).
+- Nos pacientes imunocompetentes as lesões desaparecem espontaneamente dentro de 6 a 12 meses, sem deixar cicatrizes.
+- Visto a natureza autolimitada da infecção, o tratamento para crianças imunocompetentes é opcional.
+Opções de tratamento:
+- **Hidróxido de potássio (KOH) 5 a 10% em solução aquosa (manipulado):**
+    - aplicar uma pequena quantidade do produto, com palito de dente, uma vez ao dia;
+    - orientar cuidado para não aplicar na pele sadia perilesional;
+    - pode haver sensação de ardência após a aplicação;
+    - manter o uso até as lesões ficarem mais avermelhadas e com pequena crosta sobreposta;
+    - pode ocorrer hipopigmentação pós-inflamatória.
+- **Tretinoína (0,05% creme ou 0,1% creme ou 0,025% gel):**
+    - aplicar nas lesões, em dias alternados, e aumentar gradativamente a frequência do uso conforme a tolerância (podendo chegar a 2 vezes por dia);
+    - a aplicação deve ser suspensa quando ocorrer eritema;
+    - xerose e irritação são efeitos adversos comuns e esperados;
+    - é contraindicado na gestação.
+*Lesões perioculares: evitar tratamentos tópicos. Encaminhar para avaliação presencial com a Dermatologia.

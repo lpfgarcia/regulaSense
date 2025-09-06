@@ -1,0 +1,44 @@
+# Protocolo 3 – Massa Anexial
+
+A ecografia transvaginal é o exame inicial para investigação e diferenciação das massas anexiais. Apesar de não existir um sistema de classificação universalmente aceito para definir o risco de malignidade, uma classificação emergente e promissora para padronizar o relato de achados ecográficos e descrever o risco de malignidade de massas anexiais é o American College of Radiology: OvarianAdnexal Reporting and Data System. Para exames que apresentarem essa classificação, a conduta está descrita no quadro 1.
+
+**Atenção:** não está indicado solicitar ecografia transvaginal como exame de rotina ou para rastreamento de câncer de ovário. Sempre descartar gravidez (em mulher na menacme) na investigação inicial de massa anexial.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Ginecologia:
+
+- mulher no período da menopausa com:
+    - cisto simples maior ou igual a 10 cm; ou
+    - cisto simples maior que 3 cm e menor que 10 cm, que tenha aumentado ou não regredido em seguimento anual com ecografias pélvicas transvaginais; ou
+    - cisto unilocular, não simples e com margem interna lisa; ou
+    - cisto hemorrágico;
+- mulher na menacme com:
+    - cisto unilocular (simples ou não simples) ou cisto hemorrágico maior ou igual a 10 cm; ou
+    - cisto simples ou cisto hemorrágico maior que 5 cm e menor que 10 cm, que tenha aumentado ou não regredido em 2 ecografias pélvicas transvaginais com intervalo de 3 meses entre elas; ou
+    - cisto unilocular, não simples e com margem interna lisa maior que 3 cm e menor que 10 cm, que tenha aumentado ou não regredido em 2 ecografias pélvicas transvaginais com intervalo de 3 meses entre elas; ou
+    - cisto unilocular, com parede interna irregular (menor que 3 mm de altura); ou
+- massa anexial sugestiva de endometrioma;
+- massa anexial compatível com teratoma/cisto dermoide sem fatores de risco para malignidade¹.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Oncologia Ginecologia:
+
+- massa anexial sólida, independentemente do tamanho;
+- massa anexial cística com aspecto complexo (multilocular, septação espessa, conteúdo misto, projeções papilares);
+- massa anexial compatível com teratoma/cisto dermoide com fatores de risco para malignidade;
+- massa anexial em mulher com sintomas (distensão ou dor abdominal, saciedade precoce ou perda de apetite, perda de peso involuntária, mudança de hábito intestinal);
+- massa anexial que cursa com ascite.
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter:
+
+1. sinais e sintomas (descrever exame físico abdominal e toque vaginal);
+2. IMC;
+3. paciente está na menopausa (sim ou não);
+4. paciente em uso de hormônios - anticoncepcionais ou terapia de reposição hormonal (sim ou não). Se sim, descreva;
+5. outras doenças ou condições clínicas associadas (sim ou não). Se sim descreva quais e medicações em uso;
+6. história familiar de câncer de mama ou ovário (sim ou não). Se sim, descreva parentesco dos familiares, sexo e idade de diagnóstico do câncer;
+7. anexar laudo de exame de imagem, preferencialmente, ou descrever na íntegra os seus resultados, com data;
+8. resultado de CA-125 para massas anexiais suspeitas de malignidade (se realizado).
+
+¹ Fatores de risco para para malignidade em teratoma: idade > 45 anos, tamanho > 10 cm ou crescimento rápido.
+
+## Quadro 1 – Classificação O-RADS US para massa anexial (critérios do American College of Radiology: Ovarian-Adnexal Reporting and Data System). 
+TODO

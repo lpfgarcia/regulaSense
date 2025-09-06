@@ -1,0 +1,21 @@
+# Protocolo 4 – Miomatose
+
+## Condições clínicas que indicam a necessidade de encaminhamento para urgência/emergência:
+
+- sangramento uterino anormal associado à anemia sintomática (dispneia, taquicardia, hipotensão) e/ou instabilidade hemodinâmica.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Ginecologia:
+
+- paciente com mioma intramural ou subseroso e sangramento uterino anormal refratário ao tratamento clínico otimizado por 3 meses;
+- paciente com mioma intramural ou subseroso e sangramento uterino anormal em mulher que deseja gestar;
+- paciente com mioma submucoso e sangramento uterino anormal;
+- miomatose com sintomas compressivos (aumento da frequência urinária, esvaziamento vesical incompleto, constipação).
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter:
+
+1. sinais e sintomas (descrever exame físico abdominal e toque vaginal);
+2. IMC;
+3. tratamento em uso ou já realizado para miomatose (medicamentos utilizados com dose e posologia);
+4. sangramento uterino anormal (sim ou não). Se sim, descrever características do sangramento e resultado de hemograma com data;
+5. outras doenças ou condições clínicas associadas (sim ou não). Se sim descreva quais e medicações em uso;
+6. anexar laudo de exame de imagem, preferencialmente, ou descrever na íntegra o seu resultado, com data..

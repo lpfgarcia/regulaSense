@@ -1,0 +1,42 @@
+# Protocolo 7 – Dor Pélvica Crônica, Adenomiose e Endometriose 
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Ginecologia:
+
+- dor pélvica de origem ginecológica há mais de 6 meses, refratária ao tratamento específico da condição, não associada à gestação;
+- dor pélvica crônica associada a alteração em exame de imagem ou exame físico¹ sugestivo de adenomiose ou endometriose.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Urologia:
+
+- cistite intersticial/síndrome da bexiga dolorosa (quadro 4) refratária a tratamento clínico² por pelo menos 3 meses na APS.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Tratamento da Dor:
+
+- dor pélvica crônica, associada ou não a sintomas urinários e sexuais, na ausência de outras causas identificáveis, refratária a tratamento conservador³ por pelo menos 3 meses na APS, preferencialmente já avaliada por ginecologia.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Gastroenterologia:
+
+- suspeita de dor de origem abdominal com investigação inconclusiva na APS.
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter:
+
+1. sinais e sintomas (caracterização do quadro, descrição do hábito intestinal e urinário, exame físico e ginecológico completo);
+2. IMC;
+3. tratamento em uso ou já realizado (medicamentos utilizados com dose e posologia);
+4. história de cirurgias abdominais ou ginecológicas prévias (sim ou não);
+5. outras doenças ou condições clínicas associadas (sim ou não). Se sim descreva quais e medicações em uso;
+6. anexar laudo de exame de imagem, preferencialmente, ou descrever na íntegra o seu resultado, com data (se realizado).
+
+¹Achados no exame físico sugestivos de endometriose: sensibilidade focal no exame vaginal, nódulos no fórnice posterior, massas anexiais e imobilidade ou posicionamento lateral do colo do útero ou do útero.
+²Tratamento clínico otimizado para dor pélvica crônica feminina: o manejo multidisciplinar deve ser buscado através da associação entre farmacoterapia (analgesia simples, tratamento para modulação da dor com tricíclicos ou anticonvulsivantes), modificações de dieta, estilo de vida e comportamento, tratamento de fatores psicológicos e tratamento hormonal, quando indicado por condição ginecológica e fisioterapia pélvica, se disponível.
+³Tratamento clínico para cistite intersticial/Síndrome da Bexiga Dolorosa: manejo multidisciplinar com associação de educação sobre a condição, tratamento de comorbidades (ex: infecção urinária, outras síndrome dolorosas crônicas), suporte psicossocial, modificações de dieta, estilo de vida e comportamento, terapia farmacológica (amitriptilina 25 a 75 mg/noite; se doenças alérgicas conhecidas: hidroxizina 25 a 75 mg/dia; analgesia simples como adjuvante: paracetamol); fisioterapia pélvica, se disponível.
+
+## Quadro 4 – Suspeita de cistite intersticial.
+**Diagnóstico:** sensação desagradável (dor, pressão, desconforto) percebida como relacionada à bexiga, associada a sintomas do trato urinário inferior por mais de seis semanas, na ausência de infecção ou outras causas identificáveis. A dor associada ao enchimento da bexiga e aliviada pelo esvaziamento, além de sensibilidade pélvica no exame, são características frequentemente encontradas. 
+Sintomas frequentes:
+    - frequência miccional aumentada durante o dia (> 7 micções em vigília);
+    - urgência urinária;
+    - noctúria (≥ 2 micções por noite);
+    - disúria;
+    - dor pélvica ou perineal na ausência de infecção ou outra causa identificável;
+    - dispareunia, ardência ou dor localizada na vagina, pelve ou região suprapúbica;
+    - depressão.

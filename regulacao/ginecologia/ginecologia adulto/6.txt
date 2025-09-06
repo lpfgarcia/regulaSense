@@ -1,0 +1,54 @@
+# Protocolo 6 – Incontinência Urinária
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Ginecologia:
+
+- incontinência urinária associada a prolapso genital com desejo de tratamento cirúrgico¹.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Ginecologia ou Urologia:
+
+- incontinência urinária sem resposta ao tratamento clínico otimizado (quadro 3) por 3 meses;
+- incontinência urinária complicada (sintomas de armazenamento e/ou de esvaziamento do trato urinário inferior refratários ao tratamento clínico, infecções urinárias recorrentes, dor pélvica, doença neurológica, história de cirurgia ou radioterapia pélvica).
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter:
+
+1. sinais e sintomas;
+2. descrição do exame pélvico (presença e grau de prolapso e descrição de trofismo vaginal);
+3. resultado de urocultura, com data;
+4. IMC;
+5. anexar laudo de estudo urodinâmico, preferencialmente, ou descrever na íntegra o seu resultado, com data (se realizado);
+6. tratamento clínico realizado para incontinência urinária (descreva mudanças no estilo de vida, exercícios da musculatura pélvica e treinamento vesical, com tempo de duração);
+7. uso de medicamentos que afetam a continência urinária (sim ou não). Se sim, quais.
+
+¹ A maioria dos casos de anormalidades da estática pélvica não requer tratamento. Intervenções conservadoras como modificações no estilo de vida, cessação do tabagismo, evitar levantamento de peso e tratamento de constipação, se presente, podem melhorar os sintomas. Fisioterapia pélvica deve ser ofertada a todas as pacientes com prolapso genital, especialmente para mulheres que não desejam tratamento cirúrgico.
+
+## Quadro 3 – Tratamento clínico para incontinência urinária.
+**Intervenções no estilo de vida**
+- perda de peso, se sobrepeso ou obesidade;
+- diminuição da ingesta de cafeína ou álcool;
+- cessação do tabagismo (se presente);
+- tratamento de constipação, se necessário.
+**Exercícios da musculatura pélvica (Exercício de Kegel)**
+- Fortalecem os músculos do assoalho pélvico, auxiliando no controle da incontinência urinária e dos distúrbios da estática pélvica.
+- Ensinar a paciente a fazer os exercícios:
+    - ao parar e reiniciar o fluxo de urina. Esse exercício permite conhecer quais são os músculos corretos que devem ser contraídos, porém o exercício não deve ser realizado continuamente em todas as micções; ou
+    - orientando ela colocar um dedo dentro do canal vaginal enquanto aperta os músculos ao redor do dedo; ou
+    - simulando estar sentada sobre um objeto e tentar “pegar” o objeto utilizando a vagina.
+- Os exercícios podem ser realizados em qualquer posição e devem ser realizadas contrações de 6 a 10 segundos, em séries de 8 a 12 repetições, 3 vezes ao dia, em 3 a 4 dias na semana (idealmente todos os dias).
+**Treinamento vesical**
+- Consiste em educação do paciente sobre seus hábitos miccionais associado a regime de micção programada com aumentos graduais do intervalo entre as micções. Ajuda o paciente a “segurar mais urina”, de forma que consiga urinar com menor frequência e com menos episódios de urgência e incontinência.
+- Recomendado para pacientes com urgência miccional associada ou não à incontinência urinária.
+- A melhora no padrão miccional pode levar até 6 semanas para ser observada. É importante realizar revisões periódicas para monitorar o progresso, realizar ajustes ao programa e dar reforço positivo ao paciente.
+- Para realização orientar a paciente a:
+    1. Fazer diário miccional por 24h.
+        a) Pode registrar apenas os horários das micções.
+        b) Não há necessidade de registrar o volume.
+    2. Após, urinar “pelo relógio”, em intervalos regulares, usando inicialmente o menor intervalo entre as micções, conforme identificado no diário miccional.
+        a) Tipicamente começar com intervalos de 1 hora (enquanto acordada).
+        b) Intervalos menores (30 min ou menos) podem ser necessários em pacientes que costumam urinar em intervalos inferiores à 1 hora.
+    3. Controlar a urgência (desejo de urinar) entre as micções programadas com técnicas de distração, relaxamento e contração da musculatura do assoalho pélvico.
+        a) Técnica de distração: realizar cálculos matemáticos mentalmente.
+        b) Técnica de relaxamento: realizar respirações profundas.
+        c) Técnica de contrações da musculatura do assoalho pélvico: realizar contrações rápidas dos músculos do assoalho pélvico.
+    4. Após 2 a 7 dias com menos sintomas de urgência e/ou incontinência, aumentar o intervalo entre as micções.
+        a) Usualmente progredir com 15 a 30 min a mais de intervalo.
+        b) Os intervalos devem ser gradualmente aumentados até que seja atingido intervalo de 2 a 4 horas, com poucos episódios de urgência e/ou incontinência

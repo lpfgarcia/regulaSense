@@ -1,0 +1,54 @@
+# Protocolo 11 – Amenorreia
+
+Amenorreia secundária é a ausência de menstruação por pelo menos 3 ciclos em mulheres com ciclos previamente regulares ou por pelo menos 6 meses em pacientes com ciclos irregulares. Períodos de tempo inferiores são denominados atraso menstrual.
+**Atenção:** sempre descartar gravidez na investigação inicial de amenorreia.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Ginecologia ou Endocrinologia:
+
+- amenorreia primária e:
+    - maiores de 13 anos sem caracteres sexuais secundários; ou
+    - maiores de 15 anos com caracteres sexuais secundários.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Ginecologia:
+
+- amenorreia secundária e:
+    - resposta negativa ao teste do progestágeno (quadro 7); ou
+    - diagnóstico de insuficiência ovariana precoce (antes dos 40 anos); ou
+    - história de exposição a radioterapia e/ou quimioterapia no passado.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Endocrinologia:
+
+- amenorreia secundária e:
+    - hiperprolactinemia após exclusão de causas secundárias na APS (quadro 8); ou
+    - hiperprolactinemia após a suspensão de medicação interferente (quadro 8); ou
+    - hipertireoidismo; ou
+    - outras doenças hipofisárias/hipotalâmicas.
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter:
+
+1. sinais e sintomas;
+2. tempo de início da amenorreia;
+3. resultados dos exames de HCG, prolactina e TSH, com data (se amenorreia secundária) e dois resultados de FSH com intervalo mínimo de 30 dias, com data (se insuficiência precoce);
+4. resultado do teste de progestágeno (se amenorreia secundária);
+5. anexar laudo de ecografia pélvica ou transvaginal, preferencialmente, ou descrever seus resultados na íntegra, com data (se realizada);
+6. medicamentos em uso.
+
+## Quadro 7 – Teste do progestágeno.
+- Acetato de medroxiprogesterona, comprimido de 10 mg OU diidrogesterona, comprimido de 10 mg.
+- Fornecer 1 comprimido por dia durante 5 a 10 dias.
+- Teste considerado positivo se houver sangramento após 3 a 10 dias do término da medicação.
+
+## Quadro 8 – Avaliação inicial de pacientes com hiperprolactinemia.
+- São considerados valores normais até 20 ng/mL em homens e 30 ng/mL em mulheres não grávidas. Valores abaixo de 25 ng/mL costumam excluir a hiperprolactinemia. O estresse da punção venosa pode causar pequenos aumentos de prolactina (em geral abaixo de 40 ng/ml). Assim, se um nível inicial de prolactina estiver elevado de forma limítrofe, o exame deverá ser repetido. Apesar da extensa lista de causas de hiperprolactinemia, valores acima de 200 a 250 ng/mL são bastante sugestivos de adenoma hipofisário produtor de prolactina (prolactinoma).
+- Causas fisiológicas: Gestação e aleitamento (principais), exercício físico, estresse, coito, manipulação da mama e sono.
+- Causas farmacológicas: Principal motivo não fisiológico de elevação de prolactina. Medicações associadas: antidepressivos (clomipramina, amitriptilina, citalopram, fluvoxamina, paroxetina), antipsicóticos (clorpromazina, levomepromazina, haloperidol, risperidona, quetiapina, olanzapina, sulpirida), anti-hipertensivos (metildopa, verapamil), estrogênios, gastrointestinais (domperidona, metoclopramida, cimetidina, ranitidina), opiáceos e cocaína, inibidores de protease. Geralmente, medicamentos causam aumentos discretos de prolactina (25 a 100 ng/mL), exceto a clorpromazina, metoclopramida e risperidona, que podem levar a valores acima de 200 ng/mL.
+- Causas patológicas: Tumores hipofisários produtores de prolactina (mais comum), tumores ou doenças infiltrativas hipotálamo-hipofisárias, doenças sistêmicas (hipotireoidismo primário, insuficiência adrenal primária, síndrome dos ovários policísticos, cirrose, insuficiência renal, lúpus eritematoso sistêmico, anorexia nervosa, crise convulsiva).
+Idiopática: Denominação reservada para pacientes sem uma causa óbvia para a hiperprolactinemia. Na maioria das vezes, trata-se, provavelmente, de microadenomas muito pequenos que não foram visualizados por ressonância magnética.
+- Suspeita de causa medicamentosa: suspender ou alterar a medicação por 1 semana (se possível) e repetir a prolactina. Se normal: encerra a investigação e confirma a causa medicamentosa.
+- Se excluída a hipótese medicamentosa, deve-se solicitar:
+    - teste de gravidez (todas as mulheres em idade fértil);
+    - TSH;
+    - função renal;
+    - transaminases.
+- Pacientes assintomáticos com hiperprolactinemia: solicitar pesquisa de macroprolactina. A macroprolactina é um complexo de moléculas de prolactina agregadas com uma imunoglobulina G, de alto peso molecular, mas com baixa atividade biológica. Assim, embora no exame de sangue o valor de prolactina esteja alto, uma parte dessa medida é composta por macroprolactina, que possui baixa atividade biológica e não costuma causar repercussões clínicas e não exigem manejo específico.
+- Se houver disponibilidade, na suspeita de adenoma hipofisário (investigação acima negativa), realizar ressonância magnética nuclear com contraste de sela túrcica.

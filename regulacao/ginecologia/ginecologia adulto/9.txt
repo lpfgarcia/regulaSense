@@ -1,0 +1,36 @@
+# Protocolo 9 – Neoplasia de Endométrio
+
+**Atenção:** não está indicado solicitar ecografia transvaginal como exame de rotina ou para rastreamento de câncer de endométrio.
+
+## Condições clínicas que indicam a necessidade de ecografia transvaginal:
+
+- paciente na menopausa com sangramento uterino anormal;
+- paciente na menacme com sangramento uterino anormal de provável causa estrutural (sangramento intenso, intermenstrual ou pós-coital, presença de dor pélvica ou sensação de pressão abdominal, útero aumentado de volume, massa pélvica) ou falha do tratamento clínico.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Ginecologia:
+
+- mulher na menopausa sem sangramento uterino anormal com:
+    - espessura endometrial maior que 5,0 mm e menor ou igual a 11 mm evidenciada em ecografia pélvica transvaginal e fatores de risco para câncer de endométrio¹; ou
+    - endométrio de difícil delimitação, difuso ou heterogêneo em ecografia pélvica transvaginal.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Oncologia Ginecologia (preferencialmente) ou Ginecologia:
+
+- mulher na menopausa com sangramento uterino anormal e:
+    - espessura endometrial maior ou igual a 5,0 mm evidenciada em ecografia pélvica transvaginal; ou
+    - endométrio de difícil delimitação, difuso ou heterogêneo em ecografia pélvica tranvaginal; ou
+    - sintoma persistente, independente da espessura endometrial; ou
+- mulher na menopausa sem sangramento uterino anormal com espessura endometrial maior que 11 mm evidenciada em ecografia pélvica transvaginal.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Oncologia Ginecologia:
+
+- neoplasia de endométrio evidenciada em biópsia;
+- exame de imagem com lesão tumoral suspeita de neoplasia de endométrio.
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter:
+
+1. sinais e sintomas (descrever exame especular);
+2. paciente está na menopausa (sim ou não);
+3. anexar laudo de exame de imagem, preferencialmente, ou descrever na íntegra os seus resultados, com data;
+4. anexar resultado de biópsia de endométrio, preferencialmente, ou descrever na íntegra os seus resultados, com data (se realizada)
+
+¹Fatores de risco para câncer de endométrio: obesidade, nuliparidade, diabetes, anovulação crônica, uso de tamoxifeno, tumor secretor de estrogênio, Síndrome de Lynch (câncer colorretal hereditário não poliposo), Síndrome de Cowden, história familiar de câncer de endométrio, ovário, mama ou cólon.

@@ -1,0 +1,28 @@
+# Protocolo 2 – Pólipo Endometrial
+
+**Atenção:** não está indicado solicitar ecografia transvaginal como exame de rotina ou para rastreamento de câncer de endométrio. Em pacientes em que não há indicação de encaminhamento para avaliação de polipectomia, não há recomendação de seguimento com exame de imagem periódico.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Ginecologia:
+
+- mulher na menacme com pólipo endometrial e:
+    - sangramento uterino anormal; ou
+    - múltiplos pólipos; ou
+    - pólipo prolapsado; ou
+    - pólipo maior do que 1,5 cm no maior diâmetro; ou
+    - fatores de risco para neoplasia endometrial¹.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Oncologia Ginecologia (preferencialmente) ou Ginecologia:
+
+- mulher na menopausa com pólipo endometrial.
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter:
+
+1. sinais e sintomas (descrever exame físico abdominal e toque vaginal);
+2. IMC;
+3. sangramento uterino anormal (sim ou não). Se sim, descrever características do sangramento e resultado de hemograma com data;
+4. paciente está na menopausa (sim ou não);
+5. paciente em uso de hormônios - anticoncepcionais ou terapia de reposição hormonal (sim ou não). Se sim, descreva qual;
+6. outras doenças ou condições clínicas associadas (sim ou não). Se sim descreva quais e medicações em uso;
+7. anexar laudo de exame de imagem, preferencialmente, ou descrever na íntegra os seus resultados, com data.
+
+¹ Fatores de risco para câncer de endométrio: obesidade, nuliparidade, diabetes, anovulação crônica, uso de tamoxifeno, menopausa após 55 anos, tumor secretor de estrogênio, Síndrome de Lynch (câncer colorretal hereditário não poliposo), Síndrome de Cowden, história familiar de câncer de endométrio, ovário, mama ou cólon.
