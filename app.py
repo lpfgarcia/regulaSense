@@ -14,7 +14,7 @@ OPENAI_KEY = os.getenv('OPENAI_API_KEY')
 def read_file(path):
     with open(path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
-    return lines    
+    return lines
 
 @cl.set_chat_profiles
 async def chat_profile():
@@ -27,7 +27,7 @@ async def chat_profile():
 
 @cl.on_chat_start
 async def start():
-    llm = ChatOpenAI(model=MODEL_NAME, temperature=0.1, 
+    llm = ChatOpenAI(model=MODEL_NAME, temperature=0, 
         callbacks=[cbk.MessagesHandler()])
     cl.user_session.set('llm', llm)
     await cl.Message(content=pt.CHAT_START).send()
@@ -118,7 +118,7 @@ async def protocol_analysis(document: str, msg: cl.Message):
     response = chain.invoke({'mensagem': msg.content})
 
     if 'SIM' in response.content:
-        return True    
+        return True
 
     response.content = '\n'.join(response.content.splitlines()[1:])
     return response.content
@@ -140,7 +140,7 @@ async def message(msg: cl.Message):
     if general is False:
         await cl.Message(content=f'Protocolo não identificado.').send()
         return
-    
+
     specific = await specific_protocol(general, msg)
     if specific is False:
         await cl.Message(content=f'Protocolo não identificado.').send()
@@ -154,8 +154,4 @@ async def message(msg: cl.Message):
         await cl.Message(content=f'Justificativa **suficiente**.').send()
         return
 
-    await cl.Message(content=f'Justificativa **insuficiente**:\n{just}').send()    
-
-
-
-        
+    await cl.Message(content=f'Justificativa **insuficiente**:\n{just}').send()
