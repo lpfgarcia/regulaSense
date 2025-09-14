@@ -41,4 +41,56 @@ A ecografia transvaginal é o exame inicial para investigação e diferenciaçã
 ¹ Fatores de risco para para malignidade em teratoma: idade > 45 anos, tamanho > 10 cm ou crescimento rápido.
 
 ## Quadro 1 – Classificação O-RADS US para massa anexial (critérios do American College of Radiology: Ovarian-Adnexal Reporting and Data System). 
-TODO
+Escore O-RADS|Categoria de risco (IOTA)|Descritores|Conduta pré-menopausa|Conduta pós-menopausa
+0|Avaliação incompleta (NA)|Não aplicável.|Repetir o exame de imagem ou realizar exame de imagem alternativo (RMN).|Repetir o exame de imagem ou realizar exame de imagem alternativo (RMN).
+1|Ovários normais (NA)|Folículo definido como cisto simples ≤ 3 cm.|Nenhuma.|Não aplicável.
+1|Ovários normais (NA)|Corpo lúteo ≤ 3 cm.|Nenhuma.|Não aplicável.
+2|Quase certamente benigna (<1%)|Cisto simples ≤ 3 cm|Nenhuma.|Nenhuma.
+2|Quase certamente benigna (<1%)|Cisto simples > 3 cm e até 5 cm.|Nenhuma.|Seguimento ecográfico em 1 ano¹.
+2|Quase certamente benigna (<1%)|Cisto simples > 5 cm e < 10 cm.|Seguimento ecográfico em 3 meses.|Seguimento ecográfico em 1 ano¹.
+2|Quase certamente benigna (<1%)|Lesões clássicas benignas²: Ver quadro 2.|Ver quadro 2 para conduta.|Ver quadro 2 para conduta.
+2|Cisto unilocular, não simples³, com margem interna lisa|≤ 3 cm.|Nenhuma.|Encaminhar para ginecologia.
+2|Cisto unilocular, não simples³, com margem interna lisa|> 3 cm e < 10 cm.|Seguimento ecográfico em 3 meses.|Encaminhar para ginecologia.
+3|Baixo risco de malignidade (1 a <10%)|Cisto unilocular ≥ 10 cm (simples ou não simples).|"Encaminhar para ginecologia| Encaminhar para oncologia ginecologia| Encaminhar para oncologia ginecologia| Encaminhar para oncologia ginecologia| Encaminhar para oncologia ginecologia"|"Encaminhar para ginecologia| Encaminhar para oncologia ginecologia| Encaminhar para oncologia ginecologia| Encaminhar para oncologia ginecologia| Encaminhar para oncologia ginecologia"
+3|Baixo risco de malignidade (1 a <10%)|Teratoma/cisto dermoide típico, endometrioma ou cistos hemorrágicos ≥ 10 cm.|Encaminhar para Ginecologia.|Encaminhar para Ginecologia.
+3|Baixo risco de malignidade (1 a <10%)|Cisto unilocular, de qualquer tamanho, com parede interna irregular (< 3 mm de altura).|Encaminhar para Ginecologia.|Encaminhar para Ginecologia.
+3|Baixo risco de malignidade (1 a <10%)|Cisto multilocular < 10 cm, parede interna lisa, CS = 1-3.|Encaminhar para Oncologia Ginecologia*.|Encaminhar para Oncologia Ginecologia*.
+3|Baixo risco de malignidade (1 a <10%)|Lesão sólida, contorno liso, qualquer tamanho, CS = 1.|Encaminhar para Oncologia Ginecologia*.|Encaminhar para Oncologia Ginecologia*.
+4|Risco intermediário (10 a <50%)|Cisto multilocular, sem componente sólido. ≥ 10 cm, parede interna lisa, CS = 1-3.|Encaminhar para Oncologia Ginecologia.|Encaminhar para Oncologia Ginecologia.
+4|Risco intermediário (10 a <50%)|Cisto multilocular, sem componente sólido. Qualquer tamanho, parede interna lisa, CS = 4.|Encaminhar para Oncologia Ginecologia.|Encaminhar para Oncologia Ginecologia.
+4|Risco intermediário (10 a <50%)|Cisto multilocular, sem componente sólido. Qualquer tamanho, parede interna irregular e/ou septação irregular, CS = 1-4.|Encaminhar para Oncologia Ginecologia.|Encaminhar para Oncologia Ginecologia.
+4|Risco intermediário (10 a <50%)|Cisto unilocular com componente sólido. Qualquer tamanho, 0-3 projeções papilares, CS = 1-4.|Encaminhar para Oncologia Ginecologia.|Encaminhar para Oncologia Ginecologia.
+4|Risco intermediário (10 a <50%)|Cisto multilocular com componente sólido. Qualquer tamanho, CS = 1-2.|Encaminhar para Oncologia Ginecologia.|Encaminhar para Oncologia Ginecologia.
+4|Risco intermediário (10 a <50%)|Lesão sólida. Contorno liso, qualquer tamanho, CS = 2-3.|Encaminhar para Oncologia Ginecologia.|Encaminhar para Oncologia Ginecologia.
+5|Alto risco (≥50%)|Cisto unilocular, qualquer tamanho com ≥ projeções papilares, CS = 1-4.|Encaminhar para Oncologia Ginecologia.|Encaminhar para oncologia ginecologia
+5|Alto risco (≥50%)|Cisto multilocular com componente sólido, de qualquer tamanho, CS = 3-4.|Encaminhar para Oncologia Ginecologia.|Encaminhar para Oncologia Ginecologia.
+5|Alto risco (≥50%)|Lesão sólida, contorno liso, de qualquer tamanho, CS = 4.|Encaminhar para Oncologia Ginecologia.|Encaminhar para Oncologia Ginecologia.
+5|Alto risco (≥50%)|Lesão sólida, irregular, qualquer tamanho, CS = 1-4.|Encaminhar para Oncologia Ginecologia.|Encaminhar para Oncologia Ginecologia.
+5|Alto risco (≥50%)|Presença de ascite e/ou nodularidade peritoneal⁴.|Encaminhar para Oncologia Ginecologia.|Encaminhar para Oncologia Ginecologia.
+
+¹Há escassez de evidências para definir a duração ou intervalo de tempo ideal para vigilância, mas sugere-se, no mínimo, pelo menos 1 ano de acompanhamento mostrando estabilidade ou diminuição do tamanho; é recomendado considerar o acompanhamento anual de até 5 anos, se estável.
+
+²Lesões benignas clássicas são definidas como: cisto hemorrágico típico, cisto dermóide típico < 10 cm, endometrioma típico < 10 cm, cisto paraovariano simples (qualquer tamanho), cisto de inclusão peritoneal típico (qualquer tamanho) e hidrossalpinge típico (qualquer tamanho).
+
+³Não simples se aplica quando ecos internos ou septos incompletos estão presentes. Septo incompleto não é considerado irregularidade de parede se as margens internas forem lisas.
+
+⁴Se presença de ascite com lesão de categoria 1-2, deve-se considerar outras etiologias malignas ou não malignas de ascite.
+
+O-RADS: Ovarian-Adnexal Reporting and Data System; IOTA: International Ovarian Tumor Analysis; Eco: ecografia; RMN: ressonância magnética nuclear; CS: color score (escore doppler colorido: 1 = sem fluxo; 2 = fluxo mínimo; 3 = fluxo moderado; 4 = fluxo forte).
+
+*Diante da frequente indisponibilidade de estudo ecográfico com dopplervelocimetria, os parâmetros foram adaptados em relação à classificação original.
+
+## Quadro 2 – Classificação O-RADS US para estratificação e conduta de lesões benignas clássicas anexiais – O-RADS 2 (Critérios do American College of Radiology: Ovarian-Adnexal Reporting and Data System).
+Descritores|Definições|Conduta sugerida - Pré-menopausa|Conduta sugerida - Pós-menopausa
+Cisto hemorrágico típico|Padrão reticular: linhas finas de intersecção representando fios de fibrina.|≤ 5 cm: nenhuma.|Encaminhar para Ginecologia.
+Cisto hemorrágico típico|Coágulo retrátil: componente avascular ecogênico, com margens angulares, retas ou côncavas.|> 5 cm e < 10 cm: seguimento em 3 meses. Se persistência ou aumento, encaminhar para Ginecologia.|Encaminhar para Ginecologia.
+Teratoma/cisto dermoide típico < 10 cm|Componente hiperecogênico com sombra acústica.| Linhas e pontos hiperecogênicos.| Estruturas esféricas ecogênicas flutuantes.|Encaminhar para Ginecologia|Encaminhar para Ginecologia
+Endometrioma típico < 10 cm|Vidro fosco / ecos homogêneos de baixo nível.|Encaminhar para Ginecologia|Encaminhar para Ginecologia
+Cisto simples paraovariano de qualquer tamanho|Cisto simples separado do ovário que tipicamente se move independente quando pressão é aplicada pelo transdutor.|Nenhuma. Se não for cisto simples, conduzir de acordo com critério ovariano.|Acompanhamento opcional único em um ano.
+Cisto de inclusão peritoneal típico de qualquer tamanho|Segue o contorno típico de órgãos pélvicos adjacentes ou do peritônio, não exerce efeito de massa e tipicamente contém septações. O ovário está ou na margem ou suspenso dentro da lesão.|Encaminhar para Ginecologia.|Encaminhar para Ginecologia.
+Hidrossalpinge típica de qualquer tamanho|Septação incompleta. Tubular. Dobras endossalpingeas: projeções curtas e arredondadas em torno da parede interna de uma estrutura tubular distendida de fluido.|Hidrossalpinge assintomática não precisa acompanhamento com exames de imagem. Outras causas de dor pélvica devem ser excluídas em pacientes com Dor Pélvica Crônica e hidrossalpinge ao exame de imagem. Encaminhar para Ginecologia apenas se desejo gestacional.|Outras causas de dor pélvica devem ser excluídas em pacientes com dor pélvica crônica e hidrossalpinge ao exame de imagem. Considerar encaminhar para Ginecologia.
+
+RMN: ressonância magnética nuclear.
+
+¹Há escassez de evidências para definir a duração ou intervalo de tempo ideal para vigilância. Evidências suportam risco aumentado
+de malignidade em endometriomas após a menopausa.

@@ -39,4 +39,18 @@ As condutas sugeridas a partir do resultado dos resultados do exame citopatológ
 6. anexar resultado de biópsia de colo do útero, preferencialmente, ou descrever na íntegra os seus resultados, com data (se realizada)
 
 ## Quadro 6 – Conduta sugerida de acordo com resultado do exame citopatológico (CP) do colo do útero.
-TODO
+Resultado|Recomendação
+Normal ou alterações celulares benignas|Seguir a rotina de rastreamento.
+Atipias de significado indeterminado|Em células escamosas|Possivelmente não neoplásicas (ASC-US)|<25 anos: Repetir citologia em 3 anos. Caso se mantenha essa atipia antes dos 25 anos, deverá manter seguimento citológico trienal. No caso de novo exame normal, reiniciar o rastreamento aos 25 anos. A partir dos 25 anos, se a citologia se mantiver ASC-US ou de maior gravidade, encaminhar para colposcopia.
+Atipias de significado indeterminado|Em células escamosas|Possivelmente não neoplásicas (ASC-US)|Entre 25 e 29 anos: Repetir citologia em 12 meses. Caso se mantenha essa atipia, deverá ser encaminhada para colposcopia. Se dois exames citopatológicos subsequentes com intervalo de 12 meses forem negativos, a mulher deverá retornar à rotina de rastreamento trienal.
+Atipias de significado indeterminado|Em células escamosas|Possivelmente não neoplásicas (ASC-US)|≥ 30 anos: Repetir citologia em 6 meses. Caso se mantenha essa atipia, deverá ser encaminhada para colposcopia. Se dois exames citopatológicos subsequentes com intervalo de 6 meses forem negativos, a mulher deverá retornar à rotina de rastreamento trienal.
+Atipias de significado indeterminado|Em células escamosas|Possivelmente não neoplásicas (ASC-US)|Mulheres com doenças autoimunes, vivendo com HIV, transplantadas ou em uso de drogas imunossupressoras: encaminhar para a colposcopia (ginecologia).
+Atipias de significado indeterminado|Em células escamosas|Não se pode afastar lesão de alto grau (ASC-H)|Encaminhar para a colposcopia (ginecologia).
+Atipias de significado indeterminado|Em células glandulares ou de origem indefinida (AGC)|Possivelmente não neoplásicas|Encaminhar para a colposcopia (ginecologia).
+Atipias de significado indeterminado|Em células glandulares ou de origem indefinida (AGC)|Não se pode afastar lesão de alto grau|Encaminhar para a colposcopia (ginecologia).
+Atipias de significado indeterminado|Lesão Intraepitelial de Baixo Grau (LSIL)|<25 anos: Repetir citologia em 3 anos ou quando completar 25 anos. Caso se mantenha essa atipia, deverá manter seguimento citológico trienal. No caso de novo exame normal, reiniciar o rastreamento aos 25 anos.
+Atipias de significado indeterminado|Lesão Intraepitelial de Baixo Grau (LSIL)|>=25 anos: Repetir citologia em 6 meses. Se a citologia de repetição for negativa em dois exames consecutivos, a paciente deve retornar à rotina de rastreamento trienal. Se uma das citologias subsequentes no período de um ano for positiva, encaminhar para colposcopia 
+Atipias de significado indeterminado|Lesão Intraepitelial de Baixo Grau (LSIL)|Mulheres com doenças autoimunes, vivendo com HIV, transplantadas ou em uso de drogas imunossupressoras: Encaminhar para a colposcopia (ginecologia).
+Atipias de significado indeterminado|Lesão Intraepitelial de Alto Grau (HSIL) ou HSIL não podendo excluir microinvasão|Encaminhar para a colposcopia (ginecologia).
+Atipias de significado indeterminado|Carcinoma epidermóide invasor|Encaminhar para a colposcopia (ginecologia/oncologia).
+Atipias de significado indeterminado|Adenocarcinoma in situ ou Adenocarcinoma invasor|Encaminhar para a colposcopia (ginecologia/oncologia).
