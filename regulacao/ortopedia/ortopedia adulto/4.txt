@@ -1,0 +1,17 @@
+# Protocolo 4 – Bursite/Tendinite
+
+## Condições clínicas que indicam a necessidade de encaminhamento para serviço especializado para tratamento de dor crônica (fisiatria, acupuntura, equipe de tratamento da dor) ou ortopedia:
+    - bursite ou tendinite sem resposta satisfatória ao tratamento não farmacológico (exercícios, acompanhamento fisioterápico) otimizado por um período de 6 meses.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Medicina do Trabalho ou Saúde do Trabalhador:
+    - bursite ou tendinite há mais de 3 meses com suspeita de associação com o trabalho.
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter
+
+1. sinais e sintomas:
+    a) descrever características da dor, tempo de evolução, fatores desencadeantes e de alívio;
+    b) presença de restrição de movimento/prejuízo funcional (sim ou não). Se sim, descreva.
+2. resultado de exame de imagem da região envolvida, quando realizado, com data;
+3. história prévia de trauma local (sim ou não). se sim, descreva;
+4. associação do sintoma com atividade laboral (sim ou não). Se sim, descreva a atividade;
+5. tratamento não farmacológico em uso ou já realizado para a dor periarticular (tipo e duração).

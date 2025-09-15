@@ -1,0 +1,13 @@
+# Protocolo 10 – Fraturas e luxações
+
+## Condições clínicas que indicam a necessidade de encaminhamento para emergência:
+- todas situações de suspeita ou diagnóstico de fratura ou luxação pós trauma; ou
+- fratura ou luxação tratada com suspeita de síndrome compartimental.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para neurocirurgia ou ortopedia:
+- fratura manejada em serviço de emergência e que apresenta deformidade ou prejuízo funcional, após tentativa de manejo conservador.
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter:
+1. descreva localidade da fratura e data;
+2. descreva manejo realizado para fratura (imobilização, procedimento cirúrgico, tratamento fisioterápico);
+3. apresenta deformidade ou prejuízo funcional (sim ou não). Se sim, descreva.

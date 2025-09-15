@@ -1,0 +1,28 @@
+# Protocolo 7 – Dor no Ombro
+
+## Condições clínicas que indicam a necessidade de encaminhamento para emergência:
+- suspeita de fratura ou luxação;
+
+## Condições clínicas que indicam a necessidade de encaminhamento para ortopedia:
+- ruptura total de tendão do manguito rotador evidenciada em exame de imagem; ou
+- ruptura parcial de tendão do manguito rotador em progressão ou com dor refratária ao tratamento clínico otimizado¹; ou
+- dor no ombro refratarária ao tratamento clínico otimizado¹ por um período de 6 meses; ou
+- osteoartrite de ombro com potencial indicação de cirurgia (sintomas de dor refratários ao tratamento clínico otimizado¹ por 6 meses ou importante prejuízo para as atividades de vida diária); ou
+- luxação recorrente de ombro após avaliação em serviço de emergência.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para serviço especializado para tratamento de dor crônica (fisiatria, acupuntura, equipe de tratamento da dor):
+- dor no ombro sem melhora após tratamento clínico otimizado¹ por 6 meses, sem indicação ou condição clínica para cirurgia.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para medicina do trabalho ou saúde do trabalhador:
+- pacientes com dor no ombro há mais de 3 meses com suspeita de associação com o trabalho.
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter
+1. sinais e sintomas;
+2. apresenta restrição de movimento/prejuízo funcional (sim ou não). Se sim, descreva;
+3. presença de luxação do ombro (sim ou não). Se sim, descreva quantidade de vezes;
+4. resultado de exame de imagem do ombro, com data;
+5. história prévia de trauma local (sim ou não). Se sim, descreva;
+6. associação do sintoma com atividade laboral (sim ou não). Se sim, descreva;
+7. tratamento realizado para a dor no ombro (não-farmacológico, tipo e duração; e/ou medicamentos utilizados com dose, posologia e resposta a medicação).
+
+¹Tratamento clínico otimizado é definido como tratamento medicamentoso, exercícios e acompanhamento fisioterápico,adaptado às condições do paciente.

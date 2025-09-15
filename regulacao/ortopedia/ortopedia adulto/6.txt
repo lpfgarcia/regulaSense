@@ -1,0 +1,61 @@
+# Protocolo 6 – Dor no Joelho
+
+## Condições clínicas que indicam a necessidade de encaminhamento para emergência:
+- suspeita de fratura ou luxação.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Ressonância Magnética Nuclear– RMN - do joelho:
+- suspeita clínica de lesão meniscal ou ligamentar do joelho (ver quadros 4 e 5).
+
+## Condições clínicas que indicam a necessidade de encaminhamento para ortopedia:
+- lesão ligamentar do joelho com potencial indicação cirúrgica; ou
+- lesão meniscal com potencial indicação cirúrgica; ou
+- suspeita clínica de lesão meniscal ou ligamentar (ver quadro 4 e 5), na impossibilidade de realizar RNM; ou
+- subluxação patelar recorrente refratária ao tratamento conservador; ou
+- osteoartrite de joelho com potencial indicação de cirurgia (sintomas de dor refratários ao tratamento clínico otimizado¹ por 6 meses ou importante prejuízo para as atividades de vida diária).
+
+## Condições clínicas que indicam a necessidade de encaminhamento para serviço especializado para tratamento de dor crônica (fisiatria, acupuntura, equipe de tratamento da dor):
+- dor no joelho sem melhora após tratamento clínico otimizado¹ por 6 meses, sem indicação ou condição clínica para cirurgia.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Medicina do Trabalho ou Saúde do Trabalhador:
+- pacientes com dor no joelho há mais de 3 meses com suspeita de associação com o trabalho.
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter
+1. sinais e sintomas (descrever presença de instabilidade, bloqueio articular, crepitação, tempo deevolução,manobras ortopédicas realizadas);
+2. apresenta restrição de movimento/prejuízo funcional (sim ou não). Se sim, descreva;
+3. resultado de exame de imagem do joelho, com data;
+4. história prévia de trauma local (sim ou não). se sim, descreva;
+5. associação do sintoma com atividade laboral (sim ou não). Se sim, descreva;
+6. tratamento realizado para a dor no joelho (não-farmacológico, tipo e duração; e/ou medicamentos utilizados com dose, posologia e resposta a medicação).
+
+¹Tratamento clínico otimizado é definido como tratamento medicamentoso, exercícios e acompanhamento fisioterápico,adaptado às condições do paciente.
+
+## Quadro 4 - Suspeita clínica de lesão meniscal no joelho.
+- Sintomas que iniciaram após traumatismo (atividades esportivas).
+- Dificuldade para agachar ou ajoelhar.
+- Bloqueio articular.
+- Derrame articular.
+- Dor a palpação da interlinha articular.
+- Anormalidade na movimentação do joelho: diminuição de movimentos passivos ou incapacidade deestender completamente o joelho.
+- Teste de McMurray positivo (Figura 1).
+
+## Quadro 5 – Suspeita clínica de lesão ligamentar no joelho.
+- Sintomas que iniciarem após traumatismo (atividade esportiva) especialmente se associado àderrame articular precoce (primeiros instantes após o trauma).
+- Sensação de instabilidade articular.
+- Frouxidão ligamentar (maior amplitude de movimento).
+- Positividade em testes que avaliam a integridade ligamentar:
+    - Gaveta anterior (Figura 2)
+    - Lachman (Figure 3)
+    - Pivot-shift (Figura 4)
+
+## Figura 1 - Teste de McMurray.
+- Testar o menisco medial: o paciente deve permanecer em decúbito dorsal com joelho totalmente fletido. Segurar o pé e fazer rotação externa, simultaneamente aplica-se uma força em varo (para compressão do compartimento medial). Mantem-se os dedos da outra mão na linha articular medial e inicia movimento de extensão do joelho sentindo-se um estalo ou clique associado a dor.
+- Testar menisco lateral: com o joelho totalmente fletido, sesegura o pé agora em rotação interna. Simultaneamente aplica-se uma força em valgo no joelho enquanto se estende a pernalentamente. Deve-se manter os dedos da outra mão na linhaarticular do joelho e atentar para um estalo ou clique associado ador.
+
+## Figura 2 - Teste da gaveta anterior.
+- Com o paciente em decúbito dorsal, flexionar o joelho examinado a 90°. O profissional apoia o pé do paciente, e com as mãos na região posterior da tíbia superior, empurra-a para anterior. Se comparativamente com o outro joelho há translação aumentada o teste é positivo.
+
+## Figura 3 – Teste de Lachman.
+- O teste de Lachman é realizado com o paciente em decúbito dorsal, flexão do joelho de 30°,estabiliza-se o fêmur distal com uma mão e com a outra se segura a tíbia proximal realizando um movimento antagônico entre eles. O teste é positivo quando a tíbia se desloca anteriormente.
+
+## Figura 4 – Teste de Pivot-shift.
+- Paciente em decúbito dorsal e joelho em completa extensão. Realiza rotação internada perna e estresse em valgo do joelho(empurrando a perna medialmente). Inicia-seum movimento de flexão e quando o teste é positivo observa-se uma translação da tíbiano fêmur (redução de uma subluxação anterior).

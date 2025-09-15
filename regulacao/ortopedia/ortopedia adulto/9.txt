@@ -1,0 +1,19 @@
+# Protocolo 9 – Patologias do Tornozelo e Pé
+
+## Condições clínicas que indicam a necessidade de encaminhamento para emergência:
+- suspeita de fratura ou luxação do tornozelo e/ou pé.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para ortopedia:
+- ruptura tendínea não operada em caráter emergencial; ou
+- hálux valgo associado a dor recorrente ou prejuízo funcional refratário ao tratamento clínico otimizado¹; ou
+- fasciíte plantar, patologias do coxim adiposo, síndrome do túnel do tarso ou metatarsalgia refrataria ao tratamento clínico otimizado por 6 meses¹.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para serviço especializado para tratamento de dor crônica (fisiatria, acupuntura, equipe de tratamento da dor):
+- dor no tornozelo ou pé sem melhora após tratamento clínico otimizado¹ por 6 meses, sem indicação ou condição clínica para cirurgia.
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter:
+1. sinais e sintomas;
+2. apresenta prejuízo funcional (sim ou não). Se sim, descreva;
+3. tratamento em uso ou já realizado para a condição (não-farmacológico, tipo e duração; e/ou medicamentos utilizados com dose, posologia e resposta a medicação).
+
+¹Tratamento clínico otimizado é definido como tratamento medicamentoso, exercícios e acompanhamento fisioterápico,adaptado às condições do paciente.

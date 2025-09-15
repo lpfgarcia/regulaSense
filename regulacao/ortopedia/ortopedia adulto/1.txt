@@ -1,0 +1,64 @@
+# Protocolo 1 – Dor lombar e alterações em exame de imagem de coluna lombar
+
+## Condições clínicas que indicam a necessidade de encaminhamento para emergência:
+
+- suspeita de compressão de cone medular ou síndrome da cauda equina (ver quadro 1 no anexo); ou
+- perda de força progressiva medida de maneira objetiva; ou
+- dor intensa refratária ao tratamento clínico otimizado; ou
+- diagnóstico de neoplasia acometendo a coluna vertebral; ou
+- suspeita de infecção (especialmente em pessoas imunossuprimidas e/ou usuárias de drogas ilícita sendo venosas); ou
+- suspeita de fratura ou luxação associada a traumatismo recente. 
+
+## Condições clínicas que indicam a necessidade de encaminhamento para exame de imagem (ressonância magnética nuclear – preferencialmente – ou tomografia computadorizada), se raio-X normal ou inconclusivo:
+
+**Dor lombar com sinais de alerta, sem indicação de avaliação emergencial:**
+
+- sintomas que iniciaram em paciente com idade maior que 70 anos ou menor que 20 anos; ou
+- paciente com história prévia ou suspeita de câncer; ou
+- paciente com imunossupressão (HIV, uso crônico de corticoides ou outros imunossupressores); ou
+- presença de sinais ou sintomas sistêmicos (perda de peso de maneira involuntária, febre); ou
+- dor com característica não mecânica (não relacionada à atividade/repouso) ou dor predominantemente noturna; ou
+- paciente com diagnóstico prévio de osteoporose; ou
+- dor lombar com duração maior que 8 semanas, sem resposta ao tratamento clínico otimizado¹.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para medicina interna:
+
+- dor lombar com sinais de alerta, sem indicação de avaliação emergencial, na impossibilidade de solicitar RMN ou TC na APS.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para ortopedia ou neurocirurgia:
+- síndrome radicular sem melhora clínica após 6 semanas de tratamento clínico otimizado; ou
+- diagnóstico de estenose de canal lombar ou suspeita clínica (claudicação neurogênica); ou
+- lombalgia de característica mecânica e diagnóstico de espondilolistese; ou
+- dor lombar crônica inespecífica sem melhora após tratamento clínico otimizado¹ por 6 meses, na ausência de serviço especializado para tratamento de dor crônica.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para reumatologia:
+
+- dor lombar crônica (mais de 3 meses) de característica inflamatória (ver quadro 2 no anexo).
+
+## Condições clínicas que indicam a necessidade de encaminhamento para serviço especializado para tratamento de dor crônica (fisiatria, acupuntura, equipe de tratamento da dor):
+- dor lombar crônica inespecífica, sem melhora após tratamento clínico otimizado¹ por 6 meses, sem indicação ou condição clínica para cirurgia.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Medicina do Trabalho ou Saúde do Trabalhador:
+
+- dor lombar crônica (mais de 3 meses) com suspeita de associação com o trabalho.
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter:
+
+1. sinais e sintomas:
+    a) descrever características da dor, presença ou não de ciatalgia ou claudicação neurogênica, tempo de início e duração dos sintomas, fatores desencadeantes e de alívio;
+    b) presença de alterações em exame físico neurológico (sim ou não). Se sim, descreva;c) outros sinais e sintomas relevantes (sintomas constitucionais);
+2. tratamento em uso ou já realizado para dor lombar (não-farmacológico, tipo e duração; e/ou medicamentos utilizados com dose, posologia e resposta à medicação);
+3. resultado de exame de imagem, com data (se realizado);
+4. presença de imunossupressão (sim ou não). Se sim, qual?
+5. se suspeita de neoplasia, descreva o motivo;
+6. osteoporose prévia (sim ou não). Se sim, descreva como foi feito o diagnóstico;
+7. associação do sintoma com atividade laboral (sim ou não). Se sim, descreva a atividade.
+
+¹Tratamento clínico otimizado é definido como tratamento medicamentoso, exercícios e acompanhamento fisioterápico,adaptado às condições do paciente.
+
+## Quadro 2 - Dor lombar de característica inflamatória (pelo menos 4 entre os 5 critérios).
+- Primeiros sintomas iniciaram antes dos 40 anos
+- Início insidioso
+- Melhora com exercício
+- Sem melhora com repouso
+- Dor noturna (com melhora ao levanter-se)

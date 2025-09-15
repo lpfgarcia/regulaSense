@@ -1,0 +1,29 @@
+#Protocolo 5 – Problemas de mão e punho
+
+## Condições clínicas que indicam a necessidade de encaminhamento para serviço de emergência/urgência/pronto atendimento:
+- suspeita de fratura.
+
+## Condições clínicas que indicam a necessidade de encaminhamento ortopedia ou cirurgia da mão:
+- ruptura tendínea não operada em caráter emergencial; ou
+- cisto sinovial recorrente, ou com dor persistente, ou que cause prejuízo funcional; ou
+- dedo em gatilho sem melhora com tratamento clínico otimizado¹; ou
+- tenossinovite de De Quervain sem melhora com tratamento clínico otimizado¹.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para neurocirurgia ou ortopedia ou cirurgia da mão:
+- síndrome do túnel do carpo com déficit de força objetivo na mão e/ou atrofia tenar; ou
+- síndrome do túnel com déficit sensitivo contínuo por 3 meses (persistente, que não apresenta períodos de melhora dos sintomas sensitivos); ou
+- síndrome do túnel do carpo há mais de 6 meses sem resposta ao tratamento clínico otimizado¹.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para reumatologia:
+- suspeita de doença articular inflamatória como artrite reumatoide ou atrite psoriásica.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Medicina do Trabalho ou Saúdedo Trabalhador:
+- problemas de mão e/ou punho há mais de 3 meses com suspeita de associação com o trabalho.
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter:
+1. sinais e sintomas (descrever características da dor, tempo de evolução, manobras de Tinel e Phalen(quando indicado), fatores desencadeantes e de alívio, outros sinais e sintomas relevantes);
+2. tratamento em uso ou já realizado para a condição (não-farmacológico, tipo e duração; e/oumedicamentos utilizados com dose, posologia e resposta a medicação);
+3. conclusão da eletroneuromiografia ou exame de imagem, com data (se indicado);
+4. associação do sintoma com atividade laboral (sim ou não). Se sim, descreva a atividade.
+
+¹Tratamento clínico otimizado é definido como tratamento medicamentoso, exercícios e acompanhamento fisioterápico,adaptado às condições do paciente.

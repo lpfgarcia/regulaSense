@@ -1,0 +1,19 @@
+# Protocolo 8 – Dor no Quadril
+
+## Condições clínicas que indicam a necessidade de encaminhamento para emergência:
+- suspeita de fratura ou luxação do quadril.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para ortopedia:
+- todos os casos de osteonecrose (necrose avascular ou asséptica); ou
+- osteoartrite de quadril com potencial indicação de cirurgia (sintomas de dor refratários ao tratamento clínico otimizado¹ por 6 meses ou importante prejuízo para as atividades de vida diária).
+
+## Condições clínicas que indicam a necessidade de encaminhamento para serviço especializado para tratamento de dor crônica (fisiatria, acupuntura, equipe de tratamento da dor):
+- dor no quadril sem melhora após tratamento clínico otimizado¹ por 6 meses, sem indicação ou condição clínica para cirurgia.
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter
+1. sinais e sintomas;
+2. apresenta restrição de movimento/prejuízo funcional (sim ou não). Se sim, descreva;
+3. resultado de exame de imagem do quadril, com data;
+4. tratamento realizado para osteoartrite de quadril (não-farmacológico, tipo e duração; e/ou medicamentos utilizados com dose, posologia e resposta a medicação).
+
+¹Tratamento clínico otimizado é definido como tratamento medicamentoso, exercícios e acompanhamento fisioterápico,adaptado às condições do paciente.

@@ -1,0 +1,50 @@
+# Protocolo 3 – Osteoartrite
+    Ver quadro 3 no anexo para sinais e sintomas comuns que sugerem diagnóstico de osteoartrite.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para ortopedia:
+
+- osteoartrite de quadril, joelho ou ombro com potencial indicação de cirurgia (sintomas de dor refratários ao tratamento clínico otimizado¹ por 6 meses ou importante prejuízo para as atividades de vida diária); ou
+- osteoartrite em mãos com deformidades que comprometam a função da mão.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para reumatologia:
+
+- suspeita de doença articular inflamatória como artrite reumatoide ou artrite psoriásica; ou
+
+## Condições clínicas que indicam a necessidade de encaminhamento para serviço especializado para tratamento de dor crônica (fisiatria, acupuntura, equipe de tratamento da dor):
+
+- dor por osteoartrite sem melhora após tratamento clínico otimizado¹ por 6 meses, sem indicação ou condição clínica para cirurgia.
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter:
+
+1. manifestações clínicas que sugiram o diagnóstico:
+    a) dor articular (sim ou não). Se sim, quais articulações acometidas;
+    b) hipertrofia óssea na articulação (sim ou não). Se sim, articulações acometidas;
+    c) presença de rigidez matinal (sim ou não). Se sim, descreva duração;
+    d) presença de crepitação, quando sintoma em articulação de joelho (sim ou não);
+    e) outros sinais e sintomas relevantes (edema da articulação, calor local, deformidade articular);
+2. presença de restrição de movimento/prejuízo funcional (sim ou não). Se sim, descreva.
+3. resultado de exame de imagem, com data;
+4. resultado de velocidade de hemossedimentação (VSG/VHS), com data;
+5. índice de massa corporal (IMC);
+6. tratamento em uso ou já realizado para osteoartrite (não-farmacológico, tipo e duração; e/ou medicamentos utilizados com dose, posologia e resposta à medicação);
+7. comorbidades associadas (psoríase, doença inflamatória intestinal e outras).
+
+¹Tratamento clínico otimizado é definido como tratamento medicamentoso, exercícios e acompanhamento fisioterápico,adaptado às condições do paciente.
+
+## Quadro 3 – Sinais e sintomas comuns na osteoartrite
+**Osteoartrite do joelho (critério clínico e radiológico):**
+   - dor no joelho associada a osteófitos nas margens articulares na radiografia do joelho e mais um critério clínico:
+        - idade superior a 40 anos;
+        - rigidez matinal com duração inferior a 30 minutos;
+        - crepitação da mobilização ativa da articulação.
+**Osteoartrite do quadril (critério clínico, radiológico e laboratorial):**
+    - dor no quadril e pelo menos 2 critérios dos 3 critérios:
+        -  VHS < 20 mm/h/1º hora;
+        - osteófitos femoral ou acetabular na radiografia de quadril;
+        - diminuição do espaço interarticular (superior, axial e/ou medial) na radiografia de quadril.
+**Osteoartrite da mão (critério clínico):**
+    `- dor ou rigidez das mãos e pelo menos 3 dos 4 critérios:
+        - alargamento ósseo de duas ou mais articulações definidas (2º e 3º interfalangeanas distais,2º e 3º interfalangeanas proximais e 1º articulação carpometacarpal de ambas as mãos);
+        - alargamento ósseo de duas ou mais articulações interfalangeanas distais;
+        - menos de três articulações metacarpofalangeanas com edema;
+        - deformidade de pelo menos 1 das 10 articulações definidas.

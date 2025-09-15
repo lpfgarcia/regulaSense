@@ -1,0 +1,74 @@
+# Protocolo 2 – Dor cervical e alterações em exame de imagem de coluna cervical
+
+## Condições clínicas que indicam a necessidade de encaminhamento para emergência:
+
+- suspeita de síndrome de compressão medular (ver quadro 1); ou
+- exame de imagem com evidência de compressão medular e/ou mielopatia; ou
+- suspeita de infecção (especialmente em pessoas imunossuprimidas e/ou usuárias de drogas ilícitas endovenosas); ou
+- suspeita de fratura vertebral, luxação ou lesão medular associada a traumatismo recente; ou
+- diagnóstico de neoplasia acometendo a coluna vertebral.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para exame de imagem (ressonância magnética nuclear – preferencialmente – ou tomografia computadorizada), se raio-X normal ou inconclusivo:
+
+**Dor cervical com sinais de alerta, sem indicação de avaliação emergencial:**
+
+- sintomas que iniciaram em paciente com idade maior que 70 anos ou menor que 20 anos; ou
+- paciente com história prévia ou suspeita de câncer; ou paciente com imunossupressão (HIV, uso crônico de corticoides ou outros imunossupressores); ou
+- presença de sinais ou sintomas sistêmicos (perda de peso de maneira involuntária, febre); ou
+- paciente com diagnóstico prévio de osteoporose; ou
+- dor cervical com duração maior que 8 semanas, sem resposta ao tratamento clínico otimizado¹.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para medicina interna:
+
+- dor cervical com sinais de alerta, sem indicação de avaliação emergencial, na impossibilidade de solicitar RMN ou TC.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para ortopedia ou neurocirurgia:
+
+- diagnóstico de estenose de canal cervical ou mielopatia não operados em caráter emergencial; ou
+- pacientes com cervicalgia e artrite reumatóide; ou
+- dor cervical e sintomas de radiculopatia (dor irradiada para os braços, fraqueza, parestesia), sem resposta após 6 semanas de tratamento clínico otimizado; ou
+- dor cervical crônica inespecífica sem melhora após tratamento clínico otimizado¹ por 6 meses, na ausência de serviço especializado para tratamento de dor crônica.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para reumatologia:
+
+- dor cervical crônica (mais de 3 meses) de característica inflamatória.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para serviço especializado para tratamento de dor crônica (fisiatria, acupuntura, equipe de tratamento da dor):
+
+- dor cervical crônica inespecífica, sem melhora após tratamento clínico otimizado¹ por 6 meses, sem indicação ou condição clínica para cirurgia.
+
+## Condições clínicas que indicam a necessidade de encaminhamento para Medicina do Trabalho:
+
+- dor cervical crônica (mais de 3 meses) com suspeita de associação com o trabalho.
+
+## Conteúdo descritivo mínimo que o encaminhamento deve ter:
+
+1. sinais e sintomas:
+    a) descrever características da dor, presença de sintomas de radiculopatia cervical, tempo de inícioe duração dos sintomas, fatores desencadeantes e de alívio;
+    b) presença de alterações em exame físico neurológico (sim ou não). Se sim, descreva;c) outros sinais e sintomas relevantes (sintomas constitucionais);
+2. tratamento em uso ou já realizado para dor cervical (não-farmacológico, tipo e duração; e/ou medicamentos utilizados com dose, posologia e resposta à medicação);
+3. resultado de exame de imagem, com data (se realizado);
+4. presença de imunossupressão ou artrite reumatoide (sim ou não). Se sim, qual?
+5. se suspeita de neoplasia, descreva o motivo;
+6. osteoporose prévia (sim ou não). Se sim, descreva como foi feito o diagnóstico;
+7. associação do sintoma com atividade laboral (sim ou não). Se sim, descreva a atividade;
+
+¹Tratamento clínico otimizado é definido como tratamento medicamentoso, exercícios e acompanhamento fisioterápico,adaptado às condições do paciente.
+
+
+## Quadro 1 – Suspeita de síndrome de cauda equina, compressão de cone medular ou compressão medular
+
+**Compressão medular (cervical ou torácica)**
+    - Tetra – paraparesia;
+    - Presença de nível sensitivo – hipo ou anestesia abaixo do provável nível da lesão;
+    - Espasticidade;
+    - Presença de reflexos tendinosos profundos aumentados abaixo do nível da lesão;
+    - Presença de sinais de liberação piramidal (sinais de Hoffmann, Trömner, Babinski, clônus);
+    - Presença do sinal de Lhermitte;
+    - Alteração no controle de esfíncteres vesical ou anal;
+    - Síndrome medular central (sintomas de hipo/atrofia, perda de força, parestesias com predomínio de MMSS e, mais proeminentemente, mão).
+
+**Compressão de cone medular ou cauda equina (lombossacra)**
+    - Perda de força e alteração da sensibilidade nos membros inferiores (simétrica ou assimétrica);
+    - Anestesia em sela;
+    - Alteração no controle de esfíncteres vesical ou anal;
