@@ -1,5 +1,5 @@
 import os
-import protocol, suport
+import protocol
 
 import chainlit as cl
 import callbacks as cbk
@@ -128,7 +128,7 @@ async def message(msg: cl.Message):
 
     info = await info_checker(msg)
     if info is not True:
-        await cl.Message(content=f'Campos ausêntes:\n{info}').send()
+        await cl.Message(content=f'Informações **insuficientes**. Campos ausêntes:\n{info}').send()
         return
 
     area = await area_protocol(msg)
@@ -154,4 +154,4 @@ async def message(msg: cl.Message):
         await cl.Message(content=f'Justificativa **suficiente**.').send()
         return
 
-    await cl.Message(content=f'Justificativa **insuficiente**:\n{just}').send()
+    await cl.Message(content=f'Justificativa **insuficiente**. Faltam as seguintes informações:\n{just}').send()
