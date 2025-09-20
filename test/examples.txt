@@ -1,32 +1,27 @@
+# Ortopedia - Protocolo 10 – Fraturas e luxações - Suficiente
 Idade: 28 anos
 Sexo: Masculino
 Justificativa clínica: Paciente sofreu queda de bicicleta em 12/09/2025, apresentando dor intensa, edema e deformidade visível no antebraço direito, com limitação funcional imediata. Suspeita de fratura de rádio distal. Atendimento inicial em unidade de pronto atendimento, realizada analgesia e imobilização gessada provisória. Deformidade evidente em terço distal do antebraço, dor intensa e incapacidade de movimentar punho e mão.
 Classificação de risco: Situação de urgência (suspeita de fratura pós-trauma).
 Procedimento solicitado: Encaminhamento imediato para serviço de emergência ortopédica para confirmação diagnóstica e tratamento definitivo.
 
-Idade: 67 anos
-Sexo: Feminino
-Justificativa clínica: Paciente sofreu queda da própria altura em 20/07/2025, evoluindo com fratura proximal de úmero esquerdo. Foi atendida em pronto-socorro, recebeu tratamento conservador com imobilização em tipoia. Imobilização com tipoia funcional e fisioterapia iniciada após 4 semanas. Mantém limitação significativa de movimento no ombro, com amplitude menor que 45° em abdução, dor persistente e deformidade leve visível.
-Classificação de risco: Encaminhamento indicado (fratura manejada em emergência com prejuízo funcional após tentativa conservadora).
-Procedimento solicitado: Encaminhamento para avaliação em ortopedia visando reavaliação terapêutica (possibilidade de cirurgia corretiva).
-
+# Ginecologia - Protocolo 2 – Pólipo Endometrial - Insuficiente: Falta IMC e laudo de exame de imagem
 Idade: 42 anos
 Sexo: Feminino
-Justificativa clínica: Paciente em menacme apresenta sangramento uterino anormal há 3 meses, caracterizado por menorragia (perdas intensas e prolongadas), com hemograma de 01/08/2025 evidenciando hemoglobina de 10,2 g/dL. Exame físico abdominal sem alterações palpáveis; toque vaginal revela útero de volume preservado, sem massas anexiais. IMC 32 kg/m² (obesidade). Paciente não está em menopausa. Nega uso de anticoncepcionais ou terapia hormonal. Portadora de diabetes mellitus tipo 2 em uso de metformina. Laudo de ultrassonografia transvaginal de 25/07/2025 mostra pólipo endometrial de 1,8 cm.
+Justificativa clínica: Paciente em menacme apresenta sangramento uterino anormal há 3 meses, caracterizado por menorragia (perdas intensas e prolongadas), com hemograma de 01/08/2025 evidenciando hemoglobina de 10,2 g/dL. Exame físico abdominal sem alterações palpáveis; toque vaginal revela útero de volume preservado, sem massas anexiais. Paciente não está em menopausa. Nega uso de anticoncepcionais ou terapia hormonal. Portadora de diabetes mellitus tipo 2 em uso de metformina. Laudo de ultrassonografia transvaginal de 25/07/2025 mostra pólipo endometrial de 1,8 cm.
 Classificação de risco: Encaminhamento indicado para ginecologia (pólipo > 1,5 cm em paciente com sangramento uterino anormal e fator de risco – obesidade e diabetes).
 Procedimento solicitado: Avaliação em ginecologia para polipectomia e investigação complementar.
 
-Idade: 63 anos
+# Ortopedia - Protocolo 4 – Bursite/Tendinite - Insuficiente: Falta mencionar atividade laboral
+Idade: 46 anos
 Sexo: Feminino
-Justificativa clínica: Paciente na menopausa há 12 anos, refere episódio recente de sangramento vaginal escuro em pequena quantidade. Exame físico abdominal sem massas ou dor; toque vaginal demonstra atrofia vaginal, sem alterações em colo ou útero palpável. IMC 27 kg/m². Relata uso de terapia de reposição hormonal com estradiol há 2 anos. Nega comorbidades relevantes. Laudo de histeroscopia diagnóstica de 10/08/2025 revela pólipo endometrial de 1,2 cm.
-Classificação de risco: Encaminhamento indicado para oncologia ginecológica (mulher na menopausa com pólipo endometrial).
-Procedimento solicitado: Avaliação em oncologia ginecológica para definição de conduta (polipectomia e análise histopatológica).
+Justificativa clínica: Dor crônica em ombro direito há 8 meses, piora com movimentos de abdução >90°, melhora parcial com repouso. Limitação funcional para vestir roupas e carregar peso. Nega trauma prévio. US de 10/06/2025 mostra tendinopatia do supraespinhal e bursite subacromial. Realizou fisioterapia e exercícios por 6 meses sem melhora.
+Classificação de risco: Encaminhamento para ortopedia (bursite/tendinite sem resposta a tratamento não farmacológico após 6 meses, com prejuízo funcional).
+Procedimento solicitado: Avaliação em ortopedia para conduta terapêutica (infiltração, bloqueio ou intervenção).
 
-Idade: 45 anos
+# Ortopedia - Protocolo 2 – Dor cervical e alterações em exame de imagem de coluna cervical - Insuficiente: Faltam muitas informações.
+Idade: 65 anos
 Sexo: Masculino
-Justificativa clínica: Dor lombar há algumas semanas, sem melhora.
-
-Idade: 48 anos
-Sexo: Masculino
-Justificativa clínica: Dor cervical recorrente há algumas semanas, de início insidioso, sem relato de trauma. Refere piora ao final do expediente de trabalho.
-Classificação de risco: Moderado risco.
+Justificativa clínica: Dor cervical crônica há 10 semanas, sem melhora após tratamento clínico otimizado (analgésicos e fisioterapia). Exame físico sem déficits neurológicos. RM cervical evidencia sinais de estenose de canal cervical, sem urgência cirúrgica. Sem sinais sistêmicos ou imunossupressão.
+Classificação de risco: Moderado risco (persistência dos sintomas e alteração em exame de imagem).
+Procedimento solicitado: Encaminhamento para ortopedia/neurocirurgia.
