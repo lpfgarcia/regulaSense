@@ -8,7 +8,7 @@ import prompt_templates as pt
 from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 
-MODEL_NAME = 'gpt-4o'
+MODEL_NAME = 'gpt-5'
 OPENAI_KEY = os.getenv('OPENAI_API_KEY')
 
 def read_file(path):
@@ -20,7 +20,7 @@ def read_file(path):
 async def chat_profile():
     return [
         cl.ChatProfile(
-            name='GPT-4o',
+            name='GPT-5',
             markdown_description='Modelo eficiente e acessível.',
             icon='public/chat/ses.png',
         )]
